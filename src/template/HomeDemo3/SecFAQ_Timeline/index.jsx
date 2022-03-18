@@ -11,8 +11,8 @@ const SecFAQ_Timeline = ({FQAInfo , DocElementTitle}) => {
             <div className="row">
                 <div className="col-12 col-lg-7 col-md-12 mb-5">
                     <SectionHeading
-                        title='Frequently Asked Questions'
-                        text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.'
+                        title='ONE OF THE LARGEST AIRDROPS ON SONGBIRD NETWORK IS COMING'
+                        text='How to Participate in the $ORACLE Token Airdrop?!'
                     />
 
                     <div className="dream-faq-area">

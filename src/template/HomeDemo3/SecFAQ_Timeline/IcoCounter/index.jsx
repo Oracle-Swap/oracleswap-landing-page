@@ -15,14 +15,14 @@ const IcoCounter = () => {
 
             <div className="content">
                 <div className="conuter-header">
-                    <h3 className="text-center mb-30">TOKEN SALE ENDS IN</h3>
+                    <h3 className="text-center mb-30">ORACLE MINT PHASE ENDS IN</h3>
                 </div>
                 <div className="counterdown-content">
                     
                     <div className="count-down titled circled text-center">
                         <SlideCountdown
                           weeks={false}
-                          deadline="2030-12-31 14:23:22" />
+                          deadline="2022-5-01 14:23:22" />
                     </div>
                     <div className="ico-progress">
                        <ul className="list-unstyled list-percent list-inline clearfix mb-10">
@@ -30,13 +30,13 @@ const IcoCounter = () => {
                           <li className="strength">75m</li>
                        </ul>
                        <div className="current-progress">
-                          <Line percent="70" trailWidth="3" strokeWidth="4" strokeColor="#4834d4" />
+                          <Line percent="70" trailWidth="3" strokeWidth="4" strokeColor="#C0C0C0" />
                        </div>
                        <span className="pull-left">Softcap in 103 days</span>
                        <span className="pull-right">Token Hardcap</span>
                     </div>
                     <div className="text-center">
-                        <a href="#" className="button mt-30">Buy More Tokens</a>
+                        <a href="#" className="button mt-30">Mint Now!</a>
                     </div>
                 </div>
                 

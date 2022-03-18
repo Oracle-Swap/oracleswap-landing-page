@@ -80,7 +80,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background-image: linear-gradient(to bottom right,#766ee6 0,#3540b0);
+    background-image: linear-gradient(to bottom right,#fed601 0,#d4ad26);
     border-radius: 100px;
     opacity: .5;
 }
@@ -194,7 +194,7 @@
     bottom: 10%;
     right: -15%;
     width: 40%;
-    background: #0d003b;
+    background: #e4b22b;
     padding: 20px;
 }
 .inovation.num2{
@@ -298,11 +298,11 @@ p.artficial:before{
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     z-index: 10;
-    color: #4834d4;
+    color: #C0C0C0;
 }
 
 .video-btn {
-    background-color: #4834d4;
+    background-color: #C0C0C0;
     width: 70px;
     height: 70px;
     color: #fff;
@@ -315,7 +315,7 @@ p.artficial:before{
 }
 
 .video-btn:hover {
-    background-color: #4834d4;
+    background-color: #C0C0C0;
     color: #fff;
 }
 

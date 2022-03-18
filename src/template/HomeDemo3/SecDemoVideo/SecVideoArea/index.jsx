@@ -7,7 +7,7 @@ const SecVideoArea = ({img}) => {
                 <img src={img} alt="" />
             </div>
             <div className="video-icon">
-                <a  href="https://www.youtube.com/watch?v=gbXEPHsTkgU"
+                <a  href="https://www.youtube.com/watch?v=sJlZMbB8o5Y" target="_blank"
                     className="btn dream-btn video-btn"
                     id="videobtn">
                     <i className="fa fa-play"></i>

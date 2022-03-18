@@ -17,7 +17,7 @@ function SecWelcomeContent({img}){
           </p>
           <div className="dream-btn-group">
               <a href="#" className="btn dream-btn mr-3">Learn More</a>
-              <a href="#" className="btn dream-btn">Contact Us</a>
+              <a href="#" className="btn dream-btn">MINT NOW!</a>
           </div>
       </div>
   )

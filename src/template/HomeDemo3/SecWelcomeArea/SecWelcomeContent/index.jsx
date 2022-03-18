@@ -9,15 +9,15 @@ function SecWelcomeContent({img}){
                   <span className="integration-text">Discover a new ways to enjoy your World!</span>
               </div>
           </div>
-          <h1>Buy & sell crypto easier than ever</h1>
+          <h1>Oracle Swap The Premiere DEX On The Songbird Network</h1>
           <p>
-              We have over 15 year exprience in business consultting arena.
-              We have over 15 year exprience in business consultting arena
-              and artficial intelligence.
+            Oracle Swap is an open DeFi platform on the Songbird Network where users can swap their tokens! 
+            It is a Decentralized Exchange that creates an open market for users to create liquidity for their tokens. 
+            It also provides a variety of opportunities to gain yield by providing liquidity and staking! 
           </p>
           <div className="dream-btn-group">
-              <a href="#" className="btn dream-btn mr-3">Learn More</a>
-              <a href="#" className="btn dream-btn">Contact Us</a>
+              <a href="#" className="btn dream-btn mr-3">OPEN DAPP</a>
+              <a href="#" className="btn dream-btn">MINT NOW!</a>
           </div>
       </div>
   )

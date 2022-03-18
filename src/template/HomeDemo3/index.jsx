@@ -56,7 +56,7 @@ let HomeDemo3 = () => {
     if (document.title === 'Home Template3') {
       document.getElementsByTagName("body")[0].style.backgroundImage = 'linear-gradient(180deg,#240044 0,#0f0240 25%,#400959 40%,#0f0240 65%,#0f0240)'
     }else{
-      document.getElementsByTagName("body")[0].style.backgroundImage = 'linear-gradient(to right, #4834d4, #341f97)'
+      document.getElementsByTagName("body")[0].style.backgroundImage = 'linear-gradient(to right, #C0C0C0, #341f97)'
     }
   },[])
 
@@ -66,6 +66,7 @@ let HomeDemo3 = () => {
       <div className="HomeDemo3">
         <SecWelcomeArea />
         <SecVerticalSocial data={VerticalSocial} />
+        <SecFAQ_Timeline FQAInfo={FQAInfo} DocElementTitle={DocElementTitle} />
         <SecHowItWorks data={HowItWorksInfo} imgPhone={HomeDemo3ImgPhone} />
         <SecTrust data={SingleCoolFact} />
         <SecAboutUsClient img={HomeDemo3About1} />
@@ -76,7 +77,6 @@ let HomeDemo3 = () => {
         <SecOurRoadmap data={timelineInfo} img={HomeDemo3BgRoadmap} />
         <SecOurFeatures data={ServiceBlock} imgPhone={HomeDemo3ImgPhone} Rings={HomeDemo3RingsBg} />
         <SecSubscribe data={SocialListIco} />
-        <SecFAQ_Timeline FQAInfo={FQAInfo} DocElementTitle={DocElementTitle} />
         <SecDistribution img={HomeDemo3Allocation} data={TokenText} />
         <SecTeam data={TeamMember} />
         <SecPartners data={PartnersData} />

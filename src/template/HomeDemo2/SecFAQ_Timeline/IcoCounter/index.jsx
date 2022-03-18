@@ -30,7 +30,7 @@ const IcoCounter = () => {
                           <li className="strength">75m</li>
                        </ul>
                        <div className="current-progress">
-                          <Line percent="70" trailWidth="3" strokeWidth="4" strokeColor="#4834d4" />
+                          <Line percent="70" trailWidth="3" strokeWidth="4" strokeColor="#C0C0C0" />
                        </div>
                        <span className="pull-left">Softcap in 103 days</span>
                        <span className="pull-right">Token Hardcap</span>

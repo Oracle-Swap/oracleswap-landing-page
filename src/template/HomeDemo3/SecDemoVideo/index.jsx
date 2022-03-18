@@ -7,8 +7,8 @@ const SecDemoVideo = ({img}) => {
     <section className="demo-video section-before section-padding-100">
         <div className="container">
 	        <SectionHeading
-	            title='Watch our demo video'
-	            text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.'
+	            title='Welcome To Oracle Swap!'
+	            text='Oracle Swap, The Premiere DEX on the Songbird & Flarenetwork'
 	        />
             <SecVideoArea img={img} />
         </div>

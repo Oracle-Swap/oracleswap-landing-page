@@ -37,12 +37,13 @@ const App = () => {
           <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
         </Helmet>
-  			<Switch>
+        <HomeDemo3 />
+  			{/* <Switch>
           <Route path="/" exact component={Home} />        
   				<Route path="/index-demo-1" component={HomeDemo1} />
   				<Route path="/index-demo-2" component={HomeDemo2} />
           <Route path="/index-demo-3" component={HomeDemo3} />
-  			</Switch>
+  			</Switch> */}
 	    </div>    
   );
 }

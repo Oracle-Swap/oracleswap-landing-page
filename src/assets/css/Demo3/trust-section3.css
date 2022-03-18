@@ -13,7 +13,7 @@
     padding-bottom: 25px;
     box-shadow: 4px 4px 10px 0 rgba(168,67,253,.3);
     overflow: hidden;
-    border-bottom: 3px solid #a843fd;
+    border-bottom: 3px solid #fbd304;
 }
 .ico-platform-logo{
     margin-bottom: 25px;
@@ -70,7 +70,7 @@
     border-radius: 10px;
     padding: 19px 36px;
     padding-left: 65px;
-    background-color: #0d003b;
+    background-color: #e4b22b;
     width: 100%;
     position: relative;
     -ms-flex: 1;

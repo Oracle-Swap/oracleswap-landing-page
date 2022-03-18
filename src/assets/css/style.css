@@ -71,7 +71,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: #4834d4;
+    background: #C0C0C0;
     background: -webkit-linear-gradient(left, #1d0498, #341f97);
     background: linear-gradient(to right, #1d0498, #341f97)
 }
@@ -163,10 +163,10 @@ ol {
     z-index: 99999;
     top: 0;
     left: 0;
-    background: #4834d4;
-    background: -webkit-linear-gradient(to right, #4834d4, #341f97);
-    background: -webkit-linear-gradient(left, #4834d4, #341f97);
-    background: linear-gradient(to right, #4834d4, #341f97);
+    background: #C0C0C0;
+    background: -webkit-linear-gradient(to right, #C0C0C0, #341f97);
+    background: -webkit-linear-gradient(left, #C0C0C0, #341f97);
+    background: linear-gradient(to right, #C0C0C0, #341f97);
 }
 
 .preload-content {
@@ -252,7 +252,7 @@ ol {
     width: 8px;
     height: 8px;
     border-radius: 2em 2em 2em 2em;
-    background-color: #21d397;
+    background-color: #FFD700;
     box-shadow: 0 0 5px #fff;
     -webkit-transform-origin: 50% 50%;
     transform-origin: 50% 50%;
@@ -634,14 +634,14 @@ ol {
     border-radius: 50px;
     border: 2px solid;
     letter-spacing: 1px;
-    border-color: #7450fe;
+    border-color: #d1aa29;
 }
 
 .login-btn:hover,
 .login-btn:focus {
     color: #fff;
-    background: #7450fe;
-    border-color: #7450fe;
+    background: #d1aa29;
+    border-color: #d1aa29;
 }
 
 .dream-btn {
@@ -661,8 +661,8 @@ ol {
     color: #fff;
     box-shadow: 0 3ox 20px rgba(0, 0, 0, 0.1);
     border-radius: 100px;
-    background-image: -webkit-linear-gradient(left, #21d397 0%, #7450fe 51%, #21d397 100%);
-    background-image: linear-gradient(to right, #21d397 0%, #7450fe 51%, #21d397 100%);
+    background-image: -webkit-linear-gradient(left, #FFD700 0%, #d1aa29 51%, #FFD700 100%);
+    background-image: linear-gradient(to right, #FFD700 0%, #d1aa29 51%, #FFD700 100%);
     -webkit-transition: all 500ms;
     transition: all 500ms;
 }
@@ -688,7 +688,7 @@ ol {
 .header-area.sticky {
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
-    background-color: #281b87;
+    background-color: #0d0415;
     box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
     border-bottom: none;
 }
@@ -791,7 +791,7 @@ ol {
     bottom: 0;
     left: 0;
     right: 0;
-    background-image: linear-gradient(to bottom right,#766ee6 0,#3540b0);
+    background-image: linear-gradient(to bottom right,#fed601 0,#d4ad26);
     border-radius: 100px;
     opacity: .5;
 }
@@ -905,7 +905,7 @@ ol {
     bottom: 10%;
     right: -15%;
     width: 40%;
-    background: #0d003b;
+    background: #e4b22b;
     padding: 20px;
 }
 .inovation.num2{
@@ -1009,11 +1009,11 @@ p.artficial:before{
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     z-index: 10;
-    color: #4834d4;
+    color: #C0C0C0;
 }
 
 .video-btn {
-    background-color: #4834d4;
+    background-color: #C0C0C0;
     width: 70px;
     height: 70px;
     color: #fff;
@@ -1026,7 +1026,7 @@ p.artficial:before{
 }
 
 .video-btn:hover {
-    background-color: #4834d4;
+    background-color: #C0C0C0;
     color: #fff;
 }
 
@@ -1103,7 +1103,7 @@ p.artficial:before{
     padding: 20px 10px;
     text-align: center;
     vertical-align: middle;
-    background-color: #0d003b;
+    background-color: #e4b22b;
     margin-bottom: 30px;
     transition: all .3s ease-in-out;
 }
@@ -1324,7 +1324,7 @@ p.artficial:before{
 .services-block-four.how{
     padding: 30px;
     margin-bottom: 30px;
-    background: #291674
+    background: #ebc12b
 }
 
 @media (max-width: 992px){
@@ -1341,8 +1341,8 @@ p.artficial:before{
     width: 40px;
     height: 40px;
     border: 2px solid;
-    background: #7d60f9;
-    border-color: #7d60f9;
+    background: #d1aa29;
+    border-color: #d1aa29;
     font-size: 18px;
     color: #fff;
     line-height: 40px;
@@ -1482,7 +1482,7 @@ p.artficial:before{
     top: 50%;
     transform: translateY(-50%);
     left: -20px;
-    background: #0d003b;
+    background: #e4b22b;
     height: 370px !important;
     margin-left: 30px;
     border-radius: 40px;
@@ -1495,7 +1495,7 @@ p.artficial:before{
     align-items: center;
     box-shadow: 0px 4px 13px 0 rgba(168,67,253,.3);
     overflow: hidden;
-    border-bottom: 3px solid #a843fd;
+    border-bottom: 3px solid #fbd304;
 }
 .vertical-social li{
     padding: 7px 0;
@@ -1524,7 +1524,7 @@ p.artficial:before{
     padding-bottom: 25px;
     box-shadow: 4px 4px 10px 0 rgba(168,67,253,.3);
     overflow: hidden;
-    border-bottom: 3px solid #a843fd;
+    border-bottom: 3px solid #fbd304;
 }
 .ico-platform-logo{
     margin-bottom: 25px;
@@ -1581,7 +1581,7 @@ p.artficial:before{
     border-radius: 10px;
     padding: 19px 36px;
     padding-left: 65px;
-    background-color: #0d003b;
+    background-color: #e4b22b;
     width: 100%;
     position: relative;
     -ms-flex: 1;
@@ -1614,7 +1614,7 @@ p.artficial:before{
     position: relative;
     z-index: 1;
     padding: 30px 20px 15px;
-    border: 1px solid #08b1b1;
+    border: 1px solid #ebc12b;
     background: rgba(0,0,0,0.1);
     border-radius: 0 20px;
     margin-bottom: 30px;
@@ -1680,11 +1680,11 @@ p.artficial:before{
     width: 100%;
     left: 0;
     height: 4px;
-    background-color: #00e4ff;
+    background-color: #e4b22b;
     position: relative;
-    -webkit-box-shadow: 0 0 6px 1px #00e4ff;
-    -moz-box-shadow: 0 0 6px 1px #00e4ff;
-    box-shadow: 0 0 6px 1px #00e4ff;
+    -webkit-box-shadow: 0 0 6px 1px #e4b22b;
+    -moz-box-shadow: 0 0 6px 1px #e4b22b;
+    box-shadow: 0 0 6px 1px #e4b22b;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px
@@ -1704,11 +1704,11 @@ p.artficial:before{
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-    background-color: #00e4ff;
+    background-color: #e4b22b;
     border: 4px solid #000;
-    -webkit-box-shadow: 0 0 6px 2px #00e4ff;
-    -moz-box-shadow: 0 0 6px 2px #00e4ff;
-    box-shadow: 0 0 6px 2px #00e4ff
+    -webkit-box-shadow: 0 0 6px 2px #e4b22b;
+    -moz-box-shadow: 0 0 6px 2px #e4b22b;
+    box-shadow: 0 0 6px 2px #e4b22b
 }
 
 #section_5-slider-circle .data_cir-content {
@@ -1722,7 +1722,7 @@ p.artficial:before{
 
 #section_5-slider-circle .data_cir-content p {
     font-size: 13px;
-    color: #00e4ff;
+    color: #e4b22b;
     line-height: 2
 }
 
@@ -1809,7 +1809,7 @@ p.artficial:before{
 #section_5-slider-circle .data_cir .data_cir-content ul::before {
     content: '';
     position: absolute;
-    border-left: 1px solid #00e4ff;
+    border-left: 1px solid #e4b22b;
     left: -14px;
     opacity: .2;
     width: 45%;
@@ -1819,19 +1819,19 @@ p.artficial:before{
 }
 
 #section_5-slider-circle .data_cir:nth-child(2n) .data_cir-content ul::before {
-    border-top: 1px solid #00e4ff;
+    border-top: 1px solid #e4b22b;
     margin-top: -46px
 }
 
 #section_5-slider-circle .data_cir:nth-child(2n+1) .data_cir-content ul::before {
-    border-bottom: 1px solid #00e4ff;
+    border-bottom: 1px solid #e4b22b;
     margin-top: 10px
 }
 
 #section_5-slider-circle .data_cir .data_cir-content ul li {
     padding-left: 5px;
     list-style: disc;
-    color: #00e4ff
+    color: #e4b22b
 }
 
 #section_5-slider-circle .data_cir .data_cir-content ul li span {
@@ -1861,7 +1861,7 @@ p.artficial:before{
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-    border: 2px solid #00e4ff;
+    border: 2px solid #e4b22b;
     -webkit-box-shadow: 0 0 6px 1px rgba(0, 228, 255, .5);
     -moz-box-shadow: 0 0 6px 1px rgba(0, 228, 255, .5);
     box-shadow: 0 0 6px 1px rgba(0, 228, 255, .5)
@@ -1874,7 +1874,7 @@ p.artficial:before{
     display: block;
     width: 1px;
     height: 40px;
-    background-color: #00e4ff;
+    background-color: #e4b22b;
     left: -webkit-calc(50% - 1px);
     left: -moz-calc(50% - 1px);
     left: calc(50% - 1px)
@@ -1919,9 +1919,9 @@ p.artficial:before{
 #section_5-slider-circle .data_cir.next {
     background-color: #000;
     border: 4px solid #000;
-    -webkit-box-shadow: 0 0 6px 2px #00e4ff;
-    -moz-box-shadow: 0 0 6px 2px #00e4ff;
-    box-shadow: 0 0 6px 2px #00e4ff
+    -webkit-box-shadow: 0 0 6px 2px #e4b22b;
+    -moz-box-shadow: 0 0 6px 2px #e4b22b;
+    box-shadow: 0 0 6px 2px #e4b22b
 }
 @media (max-width: 992px){
     .section_5-slider-trumb {
@@ -2035,7 +2035,7 @@ p.artficial:before{
     -moz-transform: translateY(-50%);
     -o-transform: translateY(-50%);
     transform: translateY(-50%);
-    border: 1px solid #00e4ff;
+    border: 1px solid #e4b22b;
 }
 #section_5-slider-circle .data_cir::after {
     width: 70px;
@@ -2105,7 +2105,7 @@ p.artficial:before{
 .timeline-split .timeline .block {
    width: 50%;
     padding: 30px;
-    background: #0d003b;
+    background: #e4b22b;
     border: 1px solid #25cbd3;
     width: calc(50% - 74px);
     text-align: left;
@@ -2319,7 +2319,7 @@ p.artficial:before{
 .single_cool_fact {
     position: relative;
     z-index: 1;
-    background: #0d003b;
+    background: #e4b22b;
     border: 1px solid #25cbd3;
     border-bottom: 3px solid #25cbd3;
     border-radius: 0 0 20px 20px;
@@ -2538,7 +2538,7 @@ p.artficial:before{
     overflow: hidden;
     box-sizing: border-box;
     border-radius: 20px;
-    background: #1d66f6;
+    background: #ffc107;
     box-shadow: 0 10px 80px rgba(15,62,153,.3);
 }
 .telegram-text{
@@ -3208,7 +3208,7 @@ textarea:required {
 * ----------------------------------------------------------------------------------------
 */
 .ico-counter{
-    background-image: linear-gradient(to right, #21d397 0%, #7450fe 100%);
+    background-image: linear-gradient(to right, #FFD700 0%, #d1aa29 100%);
     padding: 40px;
     border-radius: 20px
 }
@@ -3340,7 +3340,7 @@ textarea:required {
 .current-progress .progress-bar{
     border-radius: 7px;
     height: 100%;
-    background: linear-gradient(to right, #4834d4, #341f97)
+    background: linear-gradient(to right, #C0C0C0, #341f97)
 }
 .ico-progress span {
     color: #370779;
@@ -3350,7 +3350,7 @@ textarea:required {
     display: inline-block;
 }
 .doc-element{
-    background-color: #1d025c;
+    background-color: #d1aa29;
     border-radius: 4px;
     border-bottom: 2px solid #25cbd3;
     position: relative;

@@ -43,8 +43,8 @@
 
 body {
     font-family: 'Poppins', sans-serif !important;
-    background-image: -webkit-linear-gradient(left, #1d0498, #341f97) !important;
-    background-image: linear-gradient(to right, #1d0498, #341f97) !important
+    background-image: -webkit-linear-gradient(left, #0d0415, #0d0415) !important;
+    background-image: linear-gradient(to right, #0d0415, #0d0415) !important
 }
 .darker-blue{
     background: linear-gradient(180deg,#240044 0,#0f0240 25%,#400959 40%,#0f0240 65%,#0f0240);
@@ -144,10 +144,10 @@ ol {
     z-index: 99999;
     top: 0;
     left: 0;
-    background: #4834d4;
-    background: -webkit-linear-gradient(to right, #4834d4, #341f97);
-    background: -webkit-linear-gradient(left, #4834d4, #341f97);
-    background: linear-gradient(to right, #4834d4, #341f97);
+    background: #0d0415;
+    background: -webkit-linear-gradient(to right, #FFD700, #0d0415);
+    background: -webkit-linear-gradient(left, #0d0415, #FFD700);
+    background: linear-gradient(to right, #FFD700, #0d0415);
 }
 
 .preload-content {
@@ -233,7 +233,7 @@ ol {
     width: 8px;
     height: 8px;
     border-radius: 2em 2em 2em 2em;
-    background-color: #21d397;
+    background-color: #FFD700;
     box-shadow: 0 0 5px #fff;
     -webkit-transform-origin: 50% 50%;
     transform-origin: 50% 50%;
@@ -622,14 +622,14 @@ ol {
     border-radius: 50px;
     border: 2px solid;
     letter-spacing: 1px;
-    border-color: #7450fe;
+    border-color: #d1aa29;
 }
 
 .login-btn:hover,
 .login-btn:focus {
     color: #fff;
-    background: #7450fe;
-    border-color: #7450fe;
+    background: #d1aa29;
+    border-color: #d1aa29;
 }
 
 .dream-btn {
@@ -649,8 +649,8 @@ ol {
     color: #fff;
     box-shadow: 0 3ox 20px rgba(0, 0, 0, 0.1);
     border-radius: 100px;
-    background-image: -webkit-linear-gradient(left, #21d397 0%, #7450fe 51%, #21d397 100%);
-    background-image: linear-gradient(to right, #21d397 0%, #7450fe 51%, #21d397 100%);
+    background-image: -webkit-linear-gradient(left, #FFD700 0%, #d1aa29 51%, #FFD700 100%);
+    background-image: linear-gradient(to right, #FFD700 0%, #d1aa29 51%, #FFD700 100%);
     -webkit-transition: all 500ms;
     transition: all 500ms;
 }
@@ -1429,7 +1429,7 @@ body.light-version {
 .single_cool_fact {
     position: relative;
     z-index: 1;
-    background: #0d003b;
+    background: #e4b22b;
     border: 1px solid #25cbd3;
     border-bottom: 3px solid #25cbd3;
     border-radius: 0 0 20px 20px;

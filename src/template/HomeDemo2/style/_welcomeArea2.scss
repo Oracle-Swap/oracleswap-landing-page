@@ -44,8 +44,8 @@
     color: #fff !important;
     box-shadow: 0 3ox 20px rgba(0, 0, 0, 0.1) !important;
     border-radius: 100px !important;
-    background-image: -webkit-linear-gradient(left, #21d397 0%, #7450fe 51%, #21d397 100%);
-    background-image: linear-gradient(to right, #21d397 0%, #7450fe 51%, #21d397 100%);
+    background-image: -webkit-linear-gradient(left, #FFD700 0%, #d1aa29 51%, #FFD700 100%);
+    background-image: linear-gradient(to right, #FFD700 0%, #d1aa29 51%, #FFD700 100%);
     -webkit-transition: all 500ms !important;
     transition: all 500ms !important;
 }
@@ -113,7 +113,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background-image: linear-gradient(to bottom right,#766ee6 0,#3540b0);
+    background-image: linear-gradient(to bottom right,#fed601 0,#d4ad26);
     border-radius: 100px;
     opacity: .5;
 }
@@ -200,7 +200,7 @@
     bottom: 10%;
     right: -15%;
     width: 40%;
-    background: #0d003b;
+    background: #e4b22b;
     padding: 20px;
 }
 .HomeDemo2 .inovation.num2{
@@ -309,11 +309,11 @@
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     z-index: 10;
-    color: #4834d4;
+    color: #C0C0C0;
 }
 
 .HomeDemo2 .video-btn {
-    background-color: #4834d4;
+    background-color: #C0C0C0;
     width: 70px;
     height: 70px;
     color: #fff;
@@ -326,7 +326,7 @@
 }
 
 .HomeDemo2 .video-btn:hover {
-    background-color: #4834d4;
+    background-color: #C0C0C0;
     color: #fff;
 }
 
