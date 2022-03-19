@@ -315,7 +315,7 @@ export const timelineInfo = [
 export const ServiceBlock = [
     {
         classIco:"icon ti-mobile",
-        title:"Powerfull Mobile and Online App"
+        title:""
     },
     {
         classIco:"icon ti-widget",
@@ -337,19 +337,19 @@ export const SocialListIco = [
 
 export const FQAInfo = [
     {
-        text:'What are the objectives of this token?',
+        text:'What is the ORACLE PLEDGE NFT?',
         ID:'Q1'
     },
     {
-        text:'What is Token Sale and pre-sale?',
+        text:'What is the $ORACLE Token?',
         ID:'Q2'
     },
     {
-        text:'What is the pre-sale start date?',
+        text:'How do I participate?',
         ID:'Q3'
     },
     {
-        text:'how may I take part in pre-sale?',
+        text:'Why should I participate?',
         ID:'Q4'
     },
 ]

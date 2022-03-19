@@ -6,7 +6,7 @@ function SecWelcomeContent({img}){
                   <span className="integration-icon">
                       <img src={img} width="24" height="24" alt="" />
                   </span>
-                  <span className="integration-text">Discover a new ways to enjoy your World!</span>
+                  <span className="integration-text">Trade Tokens On The Songbird Blockchain</span>
               </div>
           </div>
           <h1>Oracle Swap The Premiere DEX On The Songbird Network</h1>

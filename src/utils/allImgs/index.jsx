@@ -143,7 +143,7 @@ import HomeDemo3IcoPlatforms4 from "../../assets/img/ico-platforms/4.png"
 import HomeDemo3IcoPlatforms5 from "../../assets/img/ico-platforms/5.png"
 import HomeDemo3IcoPlatforms6 from "../../assets/img/ico-platforms/6.png"
 
-import HomeDemo3About1 from "../../assets/img/svg/about1.svg"
+import HomeDemo3About1 from "../../assets/img/core-img/about1.png"
 
 import HomeDemo3Solution from "../../assets/img/solution.png"
 
