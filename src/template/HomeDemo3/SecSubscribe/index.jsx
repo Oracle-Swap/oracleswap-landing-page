@@ -23,7 +23,12 @@ const SecSubscribe = ({data}) => {
                 </div>
                 
             </div>
-        </div>  
+        </div>
+        <a href="https://mint.oracleswap.io/" className="btn dream-btn d-flex justify-content-center" >SEE THE CODE</a>
+
+        <br/>
+        <br/>
+
     </section>
   );
 }

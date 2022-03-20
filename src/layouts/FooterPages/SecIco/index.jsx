@@ -13,7 +13,7 @@ const SecIco = ({logo}) => {
             <div className="footer-social-info wow fadeInUp" data-wow-delay="0.4s">
               <a href="#"><i className="fa fa-telegram" aria-hidden="true" /></a>
               <a href="#"> <i className="fa fa-twitter" aria-hidden="true" /></a>
-              <a href="#"><i className="fa fa-twitter" aria-hidden="true" /></a>
+              <a href="#"><i className="fa fa-discord" aria-hidden="true" /></a>
               <a href="#"><i className="fa fa-youtube" aria-hidden="true" /></a>
               {/* <a href="#"><i className="fa fa-linkedin" aria-hidden="true" /></a> */}
             </div>

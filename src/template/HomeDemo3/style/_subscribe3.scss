@@ -16,13 +16,13 @@
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 1;
+    z-index: 0;
     background: url('../../../assets/img/core-img/wave-shap.png') no-repeat center center;
     background-size: contain;
     opacity: .5
 }
 .HomeDemo3 .subscribe .section-heading{
-    margin-bottom: 30px
+    margin-bottom: 10px
 }
 
 .HomeDemo3 .subscribe .service-text{
@@ -33,11 +33,11 @@
 }
 
 .HomeDemo3 .subscribe-wrapper {
-    padding: 60px;
+    padding: 20px;
     overflow: hidden;
     box-sizing: border-box;
     border-radius: 20px;
-    background: #ffc107;
+    background: linear-gradient(to right, #FFD700 0%, #d1aa29 51%, #FFD700 100%);
     box-shadow: 0 10px 80px rgba(15,62,153,.3);
 }
 .HomeDemo3 .telegram-text{

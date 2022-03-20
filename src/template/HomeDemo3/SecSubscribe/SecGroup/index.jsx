@@ -9,6 +9,7 @@ const SecGroup = () => {
             <label>enter your email</label>
             <button className="dream-btn"><i className="fa fa-paper-plane-o"></i></button>
         </div>
+        <br/>
     </div>
   );
 }
