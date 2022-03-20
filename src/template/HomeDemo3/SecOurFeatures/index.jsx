@@ -1,5 +1,6 @@
 import SectionHeading from '../../../components/SectionHeading'
 import ServiceBlock from './ServiceBlock'
+import swap from "./swap.png"
 
 const SecOurFeatures = ({data , imgPhone , Rings}) => {
 
@@ -23,7 +24,7 @@ const SecOurFeatures = ({data , imgPhone , Rings}) => {
                 </div>
                 <div className="service-img-wrapper col-lg-6 col-md-12 col-sm-12">
                     <div className="image-box">
-                        <img src={imgPhone} className="center-block img-responsive phone-img" alt="" />
+                        <img src={swap} className="center-block img-responsive phone-img" alt="" />
                         <img src={Rings} className="center-block img-responsive rings " alt="" />
                     </div>
                 </div>

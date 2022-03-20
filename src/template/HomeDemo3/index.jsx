@@ -79,7 +79,7 @@ let HomeDemo3 = () => {
         <SecSubscribe data={SocialListIco} />
         <SecDistribution img={HomeDemo3Allocation} data={TokenText} />
         <SecTeam data={TeamMember} />
-        <SecPartners data={PartnersData} />
+        {/* <SecPartners data={PartnersData} /> */}
       </div>
       <Footer />
     </>

@@ -12,8 +12,8 @@ export const MenuInfo = [
 		nameLink:'About'
 	},
 	{
-		path:"#services",
-		nameLink:'Services'
+		path:"#offerings",
+		nameLink:'Offerings'
 	},
 	{
 		path:"#roadmap",

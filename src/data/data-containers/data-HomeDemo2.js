@@ -50,13 +50,13 @@ import {
 } from '../../utils/allImgs'
 
 export const VerticalSocial = [
-    {nameIco:'fa fa-telegram'},
-    {nameIco:'fa fa-medium'},
-    {nameIco:'fa fa-facebook'},
     {nameIco:'fa fa-twitter'},
-    {nameIco:'fa fa-github'},
-    {nameIco:'fa fa-instagram'},
-    {nameIco:'fa fa-linkedin'}
+    {nameIco:'fa fa-telegram'},
+    {nameIco:'fa fa-discord'},
+    {nameIco:'fa fa-youtube'},
+    // {nameIco:'fa fa-github'},
+    // {nameIco:'fa fa-instagram'},
+    // {nameIco:'fa fa-linkedin'}
 ]
 
 export const SingleCoolFact = [

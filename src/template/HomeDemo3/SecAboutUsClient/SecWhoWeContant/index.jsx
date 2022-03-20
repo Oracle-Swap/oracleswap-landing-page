@@ -27,7 +27,7 @@ const SecWhoWeContant = () => {
             
 
 
-            <a className="btn dream-btn mt-30" href="#" data-aos="fade-up">MINT NOW TO PARTICIPATE!</a>
+            <a className="btn dream-btn mt-30" href="https://mint.oracleswap.io/" data-aos="fade-up">MINT NOW TO PARTICIPATE!</a>
         </div>
     </div>
   );

@@ -8,8 +8,8 @@ const SecDistribution = ({img , data}) => {
         <div className="container">
             
             <SectionHeading
-                title='Our ICO Distribution'
-                text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.'
+                title='Tokenomics'
+                text='The ORACLE token is designed to be distributed to the Songbird Community'
             />
 
             <div className="col-lg-6 col-md-6 col-sm-12">
@@ -20,12 +20,12 @@ const SecDistribution = ({img , data}) => {
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
                 <div className="token-info-wapper"></div>
-                <h2 className="text-center mb-30">More Token Info</h2>
+                <h2 className="text-center mb-30">Airdrop Distribution</h2>
                 {data && data.map((item , key) => (
                     <TokenInfo
                         key={key}
                         text={item.text}
-                        img={item.img}
+                        // img={item.img}
                     />
                 ))}
             </div>

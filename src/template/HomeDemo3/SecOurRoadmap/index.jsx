@@ -6,7 +6,7 @@ const SecOurRoadmap = ({data , img}) => {
   return (
     <section className="roadmap section-padding-100" style={{background: `url(${img}) center center / cover no-repeat`, backgroundSize: 'cover'}} id="roadmap">
         <SectionHeading
-            title='Our ICO Roadmap'
+            title='Oracle Roadmap'
             text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.'
         />
         <div className="container-fluid">

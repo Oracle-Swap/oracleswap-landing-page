@@ -36,7 +36,7 @@ const IcoCounter = () => {
                        <span className="pull-right">Token Hardcap</span>
                     </div>
                     <div className="text-center">
-                        <a href="#" className="button mt-30">Mint Now!</a>
+                        <a href="https://mint.oracleswap.io/" className="button mt-30">Mint Now!</a>
                     </div>
                 </div>
                 

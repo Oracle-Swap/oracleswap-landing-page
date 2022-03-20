@@ -14,9 +14,9 @@ const SecSubscribe = ({data}) => {
                         <SectionHeading />
                         <div className="service-text">
                             
-                            <SecGroup />
+                            {/* <SecGroup />
                             <SecTelegramText />
-                            <SecSocialList data={data} />
+                            <SecSocialList data={data} /> */}
                             
                         </div>
                     </div>

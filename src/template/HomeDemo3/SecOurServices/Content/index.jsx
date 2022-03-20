@@ -9,7 +9,7 @@ const Content = ({img , title}) => {
                 <img src={img} alt="" />
             </div>
             <h6>{title}</h6>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla neque quam, maximus ut accumsan ut, posuere sit Lorem ipsum.</p>
+            <p>999999Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla neque quam, maximus ut accumsan ut, posuere sit Lorem ipsum.</p>
         </div>
     </div>
   );

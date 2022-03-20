@@ -50,13 +50,15 @@ import {
 } from '../../utils/allImgs'
 
 export const VerticalSocial = [
-    {nameIco:'fa fa-telegram'},
-    {nameIco:'fa fa-medium'},
-    {nameIco:'fa fa-facebook'},
     {nameIco:'fa fa-twitter'},
-    {nameIco:'fa fa-github'},
-    {nameIco:'fa fa-instagram'},
-    {nameIco:'fa fa-linkedin'}
+    {nameIco:'fa fa-discord'},
+    {nameIco:'fa fa-telegram'},
+    {nameIco:'fa fa-youtube'},
+    // {nameIco:'fa fa-medium'},
+    // {nameIco:'fa fa-facebook'},
+    // {nameIco:'fa fa-github'},
+    // {nameIco:'fa fa-instagram'},
+    // {nameIco:'fa fa-linkedin'}
 ]
 
 export const HowItWorksInfo = [
@@ -95,27 +97,27 @@ export const SingleCoolFact = [
 export const service_single_content = [
     {
         img:HomeDemo3Services1,
-        title:'Smart Trading Modules'
+        title:'Decentralized Exchange'
     },
     {
         img:HomeDemo3Services2,
-        title:'Adaptive Social Assistant'
+        title:'Automatic Market Maker'
     },
     {
         img:HomeDemo3Services3,
-        title:'Analyzer of the News '
+        title:'Liquidity Farming'
     },
     {
         img:HomeDemo3Services4,
-        title:'Exchange Order Management'
+        title:'Oracle Token Staking'
     },
     {
         img:HomeDemo3Services5,
-        title:'Module of Price Notification'
+        title:'NFT Marketplace'
     },
     {
         img:HomeDemo3Services6,
-        title:'Crypto Trading Platform'
+        title:'Oracle NFT Staking'
     }
 
 ]
@@ -194,7 +196,7 @@ export const timelineInfo = [
         TextTowLi1:"",
         TextTowLi2:"",
         IsThreeLi:true,
-        TextThreeLi1:"website launch",
+        TextThreeLi1:"Website launch",
         TextThreeLi2:"White Paper published",
         TextThreeLi3:"Private and Pre-sale start",
         IsFourLi:false,
@@ -315,7 +317,7 @@ export const timelineInfo = [
 export const ServiceBlock = [
     {
         classIco:"icon ti-mobile",
-        title:""
+        title:"Desktop & Mobile"
     },
     {
         classIco:"icon ti-widget",
@@ -328,11 +330,11 @@ export const ServiceBlock = [
 ]
 
 export const SocialListIco = [
-    {icoName:"fa fa-facebook-square"},
     {icoName:"fa fa-twitter-square"},
-    {icoName:"fa fa-github-square"},
-    {icoName:"fa fa-instagram"},
-    {icoName:"fa fa-medium"}
+    {icoName:"fa fa-telegram-square"},
+    {icoName:"fa fa-discord-square"},
+    {icoName:"fa fa-youtube-square"},
+    // {icoName:"fa fa-medium"}
 ]
 
 export const FQAInfo = [

@@ -12,7 +12,7 @@ const SecFAQ_Timeline = ({FQAInfo , DocElementTitle}) => {
                 <div className="col-12 col-lg-7 col-md-12 mb-5">
                     <SectionHeading
                         title='How to Participate in the $ORACLE Token Airdrop?!'
-                        text='ONE OF THE LARGEST AIRDROPS ON THE SONGBIRD NETWORK IS COMING'
+                        text='ONE OF THE LARGEST AIRDROPS ON THE SONGBIRD NETWORK IS COMING! Oracle Swap will go live after the airdrop is complete!'
                     />
 
                     <div className="dream-faq-area">
@@ -30,7 +30,7 @@ const SecFAQ_Timeline = ({FQAInfo , DocElementTitle}) => {
 
                     <IcoCounter />
 
-                    <IcoDocs data={DocElementTitle} />
+                    {/* <IcoDocs data={DocElementTitle} /> */}
                     
                 </div>
             </div>

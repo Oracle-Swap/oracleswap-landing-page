@@ -4,12 +4,12 @@ import Content from './Content'
 const SecOurServices = ({data}) => {
 
   return (
-    <section className="our_services_area section-padding-100-70 clearfix" id="services">
+    <section className="our_services_area section-padding-100-70 clearfix" id="offerings">
         <div className="container">
             
             <SectionHeading
-                title='Our Core Services'
-                text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.'
+                title='Oracle Swap Offerings'
+                text='Oracle Swap provides a variety of DeFi and NFT functionality on the Songbird Network'
             />
                 
 

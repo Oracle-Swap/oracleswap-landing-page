@@ -7,15 +7,15 @@ const SecIco = ({logo}) => {
               <div className="footer-logo">
                 <a href="#"><img src={logo} alt="logo" /></a>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ducimus voluptatibus neque illo id repellat quisquam? Autem expedita earum quae laborum ipsum ad, a eaque officiis eligendi blanditiis odio necessitatibus.</p>
+              <p>Oracle Swap is proud to bring an open DeFi ecosystem on to the Songbird Network for the Flare Network community!</p>
             </div>
             {/* Social Icon */}
             <div className="footer-social-info wow fadeInUp" data-wow-delay="0.4s">
-              <a href="#"><i className="fa fa-facebook" aria-hidden="true" /></a>
+              <a href="#"><i className="fa fa-telegram" aria-hidden="true" /></a>
               <a href="#"> <i className="fa fa-twitter" aria-hidden="true" /></a>
-              <a href="#"><i className="fa fa-google-plus" aria-hidden="true" /></a>
-              <a href="#"><i className="fa fa-instagram" aria-hidden="true" /></a>
-              <a href="#"><i className="fa fa-linkedin" aria-hidden="true" /></a>
+              <a href="#"><i className="fa fa-twitter" aria-hidden="true" /></a>
+              <a href="#"><i className="fa fa-youtube" aria-hidden="true" /></a>
+              {/* <a href="#"><i className="fa fa-linkedin" aria-hidden="true" /></a> */}
             </div>
           </div>
         </div>
