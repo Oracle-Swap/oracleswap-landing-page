@@ -5,6 +5,7 @@ const SecAboutUs = ({img}) => {
 
   return (
     <section className="about-us-area section-padding-0-100 clearfix">
+      <br/><br/>
         <div className="container">
             <div className="row align-items-center">
 

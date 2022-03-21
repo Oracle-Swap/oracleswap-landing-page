@@ -8,8 +8,8 @@ const SecOurFeatures = ({data , imgPhone , Rings}) => {
     <section className="features section-padding-100">
 
         <SectionHeading
-            title='Our Wallet Application'
-            text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.'
+            title='Get Started'
+            text='How To Start Using Oracle Swap'
         />
         <div className="container-fluid">
             <div className="row">

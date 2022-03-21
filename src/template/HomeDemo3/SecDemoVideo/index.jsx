@@ -11,6 +11,7 @@ const SecDemoVideo = ({img}) => {
 	            text='Oracle Swap, The Premiere DEX on the Songbird & Flarenetwork'
 	        />
             <SecVideoArea img={img} />
+            <br/>
         </div>
     </section>
   );

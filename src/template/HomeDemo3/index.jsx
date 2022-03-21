@@ -70,14 +70,14 @@ let HomeDemo3 = () => {
         <SecHowItWorks data={HowItWorksInfo} imgPhone={HomeDemo3ImgPhone} />
         <SecTrust data={SingleCoolFact} />
         <SecAboutUsClient img={HomeDemo3About1} />
-        <SecAboutUs img={HomeDemo3Solution} />
         <SecDemoVideo img={HomeDemo3VideoBg4} />
+        <SecAboutUs img={HomeDemo3Solution} />
         <div className="clearfix" />
         <SecOurServices data={service_single_content} />
-        <SecOurRoadmap data={timelineInfo} img={HomeDemo3BgRoadmap} />
         <SecOurFeatures data={ServiceBlock} imgPhone={HomeDemo3ImgPhone} Rings={HomeDemo3RingsBg} />
         <SecSubscribe data={SocialListIco} />
         <SecDistribution img={HomeDemo3Allocation} data={TokenText} />
+        <SecOurRoadmap data={timelineInfo} img={HomeDemo3BgRoadmap} />
         <SecTeam data={TeamMember} />
         {/* <SecPartners data={PartnersData} /> */}
       </div>

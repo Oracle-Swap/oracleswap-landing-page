@@ -11,10 +11,10 @@ const SecIco = ({logo}) => {
             </div>
             {/* Social Icon */}
             <div className="footer-social-info wow fadeInUp" data-wow-delay="0.4s">
-              <a href="#"><i className="fa fa-telegram" aria-hidden="true" /></a>
-              <a href="#"> <i className="fa fa-twitter" aria-hidden="true" /></a>
-              <a href="#"><i className="fa fa-discord" aria-hidden="true" /></a>
-              <a href="#"><i className="fa fa-youtube" aria-hidden="true" /></a>
+              <a href="https://t.me/OracleSwapOffical"><i className="fa fa-telegram" aria-hidden="true" /></a>
+              <a href="https://twitter.com/Oracle_Swap"><i className="fa fa-twitter" aria-hidden="true" /></a>
+              <a href="https://discord.com/invite/kJuzKZ8DYH"><i className="fa fa-comment" aria-hidden="true" /></a>
+              <a href="https://www.youtube.com/channel/UCIaaQbRoi5TV7epRLg8y3Mg"><i className="fa fa-youtube" aria-hidden="true" /></a>
               {/* <a href="#"><i className="fa fa-linkedin" aria-hidden="true" /></a> */}
             </div>
           </div>

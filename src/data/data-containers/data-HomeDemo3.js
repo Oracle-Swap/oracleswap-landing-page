@@ -51,7 +51,7 @@ import {
 
 export const VerticalSocial = [
     {nameIco:'fa fa-twitter'},
-    {nameIco:'fa fa-discord'},
+    {nameIco:'fa fa-comment'},
     {nameIco:'fa fa-telegram'},
     {nameIco:'fa fa-youtube'},
     // {nameIco:'fa fa-medium'},
@@ -126,28 +126,7 @@ export const timelineInfo = [
     {
         left:"10%",
         ClassName:"data_cir cir_0",
-        date:"Q2 2017",
-        IsSpan:true,
-        TextSpan:"Emergence and design of the idea",
-        IsTowLi:false,
-        TextTowLi1:"",
-        TextTowLi2:"",
-        IsThreeLi:false,
-        TextThreeLi1:"",
-        TextThreeLi2:"",
-        TextThreeLi3:"",
-        IsFourLi:false,
-        TextFourLi1:"",
-        TextFourLi2:"",
-        TextFourLi3:"",
-        TextFourLi4:"",
-        img:HomeDemo3RoadmapIcons1
-
-    },
-    {
-        left:"20%",
-        ClassName:"data_cir cir_1",
-        date:"Q3 2017",
+        date:"Q2 2022",
         IsSpan:false,
         TextSpan:"",
         IsTowLi:false,
@@ -158,6 +137,27 @@ export const timelineInfo = [
         TextThreeLi2:"",
         TextThreeLi3:"",
         IsFourLi:true,
+        TextFourLi1:"Sell Out Oracle NFTS",
+        TextFourLi2:"Complete Mass Airdrop Of $ORACLE Token",
+        TextFourLi3:"Launch Oracle Swap",
+        TextFourLi4:"Add Liquidity To DEX For $ORACLE Token & Others",
+        img:HomeDemo3RoadmapIcons1
+
+    },
+    {
+        left:"20%",
+        ClassName:"data_cir cir_1",
+        date:"Q3 2022",
+        IsSpan:true,
+        TextSpan:"Oracle Swap FTSO Provider",
+        IsTowLi:false,
+        TextTowLi1:"",
+        TextTowLi2:"",
+        IsThreeLi:false,
+        TextThreeLi1:"",
+        TextThreeLi2:"",
+        TextThreeLi3:"",
+        IsFourLi:false,
         TextFourLi1:"built our team",
         TextFourLi2:"company establishment",
         TextFourLi3:"legal issues setting",
@@ -168,12 +168,12 @@ export const timelineInfo = [
     {
         left:"30%",
         ClassName:"data_cir cir_2",
-        date:"Q4 2017",
+        date:"Q3 2022",
         IsSpan:false,
         TextSpan:"",
         IsTowLi:true,
-        TextTowLi1:'start development of the ealier version and crypto wallet version',
-        TextTowLi2:'negotiations on partnerships',
+        TextTowLi1:'Add USD Prices to DEX',
+        TextTowLi2:'Analyzer For DEX',
         IsThreeLi:false,
         TextThreeLi1:"",
         TextThreeLi2:"",
@@ -189,13 +189,13 @@ export const timelineInfo = [
     {
         left:"40%",
         ClassName:"data_cir cir_3",
-        date:"Q1 2018",
+        date:"Q4 2022",
         IsSpan:false,
         TextSpan:"",
-        IsTowLi:false,
-        TextTowLi1:"",
-        TextTowLi2:"",
-        IsThreeLi:true,
+        IsTowLi:true,
+        TextTowLi1:"NFT Marketplace",
+        TextTowLi2:"Staking NFTs",
+        IsThreeLi:false,
         TextThreeLi1:"Website launch",
         TextThreeLi2:"White Paper published",
         TextThreeLi3:"Private and Pre-sale start",
@@ -210,13 +210,13 @@ export const timelineInfo = [
     {
         left:"50%",
         ClassName:"data_cir cir_4 red_c",
-        date:"Q2 2018",
-        IsSpan:false,
-        TextSpan:"",
+        date:"",
+        IsSpan:true,
+        TextSpan:"More NFT Airdrops! To Oracle NFT Holders",
         IsTowLi:false,
         TextTowLi1:"",
         TextTowLi2:"",
-        IsThreeLi:true,
+        IsThreeLi:false,
         TextThreeLi1:"Crowdsale",
         TextThreeLi2:"marketing campaign",
         TextThreeLi3:"listing to the major exchanges",
@@ -231,13 +231,13 @@ export const timelineInfo = [
     {
         left:"60%",
         ClassName:"data_cir cir_5 next",
-        date:"Q3 2018",
-        IsSpan:false,
-        TextSpan:"",
+        date:"",
+        IsSpan:true,
+        TextSpan:"More NFT Airdrops! To Oracle NFT Holders",
         IsTowLi:false,
         TextTowLi1:"",
         TextTowLi2:"",
-        IsThreeLi:true,
+        IsThreeLi:false,
         TextThreeLi1:"Crypto Wallet version release",
         TextThreeLi2:"Testnet launch",
         TextThreeLi3:" Platform ealier version development",
@@ -252,13 +252,13 @@ export const timelineInfo = [
     {
         left:"70%",
         ClassName:"data_cir cir_6 next",
-        date:"Q4 2018",
-        IsSpan:false,
-        TextSpan:"",
+        date:"",
+        IsSpan:true,
+        TextSpan:"More NFT Airdrops! To Oracle NFT Holders",
         IsTowLi:false,
         TextTowLi1:"",
         TextTowLi2:"",
-        IsThreeLi:true,
+        IsThreeLi:false,
         TextThreeLi1:"Mobile App",
         TextThreeLi2:"Explorer",
         TextThreeLi3:"new partnerships and new marketplace support",
@@ -273,13 +273,13 @@ export const timelineInfo = [
     {
         left:"80%",
         ClassName:"data_cir cir_7 next",
-        date:"Q1 2019",
-        IsSpan:false,
-        TextSpan:"",
+        date:"",
+        IsSpan:true,
+        TextSpan:"More NFT Airdrops! To Oracle NFT Holders",
         IsTowLi:false,
         TextTowLi1:"",
         TextTowLi2:"",
-        IsThreeLi:true,
+        IsThreeLi:false,
         TextThreeLi1:"Mainnet launch",
         TextThreeLi2:"Wallet beta-version release",
         TextThreeLi3:"Masternodes implementation",
@@ -294,16 +294,16 @@ export const timelineInfo = [
     {
         left:"90%",
         ClassName:"data_cir cir_8 next",
-        date:"Q2 2019",
+        date:"TBD",
         IsSpan:false,
         TextSpan:"",
-        IsTowLi:true,
+        IsTowLi:false,
         TextTowLi1:"Platform integration to electronic marketplaces",
         TextTowLi2:"Zero Fee",
-        IsThreeLi:false,
-        TextThreeLi1:"",
-        TextThreeLi2:"",
-        TextThreeLi3:"",
+        IsThreeLi:true,
+        TextThreeLi1:"Integrate F/S Assets",
+        TextThreeLi2:"Make DEX Work With Both SGB and FLR",
+        TextThreeLi3:"Build Bridge to other chains",
         IsFourLi:false,
         TextFourLi1:"",
         TextFourLi2:"",
@@ -317,15 +317,15 @@ export const timelineInfo = [
 export const ServiceBlock = [
     {
         classIco:"icon ti-mobile",
-        title:"Desktop & Mobile"
+        title:"Get A Wallet"
     },
     {
         classIco:"icon ti-widget",
-        title:"Brings more Transparency and Speed"
+        title:"Get Some Songbird"
     },
     {
         classIco:"icon ti-settings",
-        title:"Special for Multiple Use Capabilities"
+        title:"Trade"
     },
 ]
 
@@ -373,19 +373,19 @@ export const DocElementTitle = [
 
 export const TokenText = [
     {
-        text:'Lorem ipsum dolor sit amet, conse ctetur elit',
+        text:'1 BILLION TOTAL',
         img:HomeDemo3TokenIcon1
     },
     {
-        text:'Sed quis accumsan nisi Ut ut felis',
+        text:'650 Million To Airdrop',
         img:HomeDemo3TokenIcon1
     },
     {
-        text:'felis congue nisl hendrerit commodo',
+        text:'250 Million To Team',
         img:HomeDemo3TokenIcon1
     },
     {
-        text:'arch nemo sequi rem saepe ad quasi ullam.',
+        text:'100 Million To Reserve',
         img:HomeDemo3TokenIcon1
     },
 ]

@@ -9,7 +9,7 @@ const SecTrust = ({data}) => {
 
         <SectionHeading
             title='The Oracle NFTs!'
-            text='Check out how awesome the Oracle NFTs are!'
+            text='Check out how awesome the Oracle NFTs are! Get an NFT and be qualified to receive the $ORACLE Token Airdrop!'
         />
 
         <div className="container">
