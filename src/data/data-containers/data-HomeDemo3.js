@@ -122,12 +122,12 @@ export const service_single_content = [
     {
         img:HomeDemo3Services5,
         title:'NFT Marketplace',
-        description: 'Coming Soon!',
+        description: 'The Oracle Swap NFT Marketplace will have a selection of new functions that are unique to the Songbird Network. You will be able to mint your own NFTs and make your own collections. You will be able to make and accept offers on NFTs. Creators will receive royalties for their NFT sales!',
     },
     {
         img:HomeDemo3Services6,
         title:'Oracle NFT Staking',
-        description: 'Coming Soon!',
+        description: 'The Oracles NFTs will be stakeable in a pool that distributes a portion of the transaction fees of the NFT Marketplace to all stakers!',
     }
 
 ]

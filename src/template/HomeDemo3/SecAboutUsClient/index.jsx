@@ -4,7 +4,7 @@ import SecWhoWeContant from './SecWhoWeContant'
 const SecAboutUsClient = ({img}) => {
 
   return (
-    <section className="about-us-area section-padding-0-100 clearfix" id="about">
+    <section className="about-us-area section-padding-0-100 clearfix" id="">
         <div className="container">
             <div className="row align-items-center">
                 

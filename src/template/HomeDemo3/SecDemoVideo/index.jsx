@@ -4,7 +4,7 @@ import SecVideoArea from './SecVideoArea'
 const SecDemoVideo = ({img}) => {
 
   return (
-    <section className="demo-video section-before section-padding-100">
+    <section className="demo-video section-before section-padding-100" id="about">
         <div className="container">
 	        <SectionHeading
 	            title='Welcome To Oracle Swap!'
