@@ -182,6 +182,10 @@ import HomeDemo3TeamImg1 from "../../assets/img/team-img/1.png"
 import HomeDemo3TeamImg2 from "../../assets/img/team-img/2.png"
 import HomeDemo3TeamImg3 from "../../assets/img/team-img/3.png"
 import HomeDemo3TeamImg4 from "../../assets/img/team-img/4.png"
+import HomeDemo3TeamImg5 from "../../assets/img/team-img/5.png"
+import HomeDemo3TeamImg6 from "../../assets/img/team-img/6.png"
+import HomeDemo3TeamImg7 from "../../assets/img/team-img/7.png"
+import HomeDemo3TeamImg8 from "../../assets/img/team-img/8.png"
 
 import HomeDemo3Partners1 from "../../assets/img/partners/1.png"
 import HomeDemo3Partners2 from "../../assets/img/partners/2.png"
@@ -351,6 +355,10 @@ export {
 	HomeDemo3TeamImg2,
 	HomeDemo3TeamImg3,
 	HomeDemo3TeamImg4,
+	HomeDemo3TeamImg5,
+	HomeDemo3TeamImg6,
+	HomeDemo3TeamImg7,
+	HomeDemo3TeamImg8,
 	HomeDemo3Partners1,
 	HomeDemo3Partners2,
 	HomeDemo3Partners3,

@@ -8,7 +8,7 @@ const SecDemoVideo = ({img}) => {
         <div className="container">
 	        <SectionHeading
 	            title='Welcome To Oracle Swap!'
-	            text='Oracle Swap, The Premiere DEX on the Songbird & Flarenetwork'
+	            text='Oracle Swap, The Premiere DEX on the Songbird & Flare Network'
 	        />
             <SecVideoArea img={img} />
             <br/>

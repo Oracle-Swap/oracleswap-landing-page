@@ -19,6 +19,10 @@ import {
     HomeDemo3TeamImg2,
     HomeDemo3TeamImg3,
     HomeDemo3TeamImg4,
+    HomeDemo3TeamImg5,
+    HomeDemo3TeamImg6,
+    HomeDemo3TeamImg7,
+    HomeDemo3TeamImg8,
     
     HomeDemo3Partners1,
     HomeDemo3Partners2,
@@ -50,10 +54,10 @@ import {
 } from '../../utils/allImgs'
 
 export const VerticalSocial = [
-    {nameIco:'fa fa-twitter'},
-    {nameIco:'fa fa-comment'},
-    {nameIco:'fa fa-telegram'},
-    {nameIco:'fa fa-youtube'},
+    {nameIco:'fa fa-twitter', link:'https://twitter.com/Oracle_Swap'},
+    {nameIco:'fa fa-comment', link:'https://discord.com/invite/kJuzKZ8DYH'},
+    {nameIco:'fa fa-telegram', link:'https://t.me/OracleSwapOffical'},
+    {nameIco:'fa fa-youtube', link:'https://www.youtube.com/channel/UCIaaQbRoi5TV7epRLg8y3Mg'},
     // {nameIco:'fa fa-medium'},
     // {nameIco:'fa fa-facebook'},
     // {nameIco:'fa fa-github'},
@@ -62,9 +66,9 @@ export const VerticalSocial = [
 ]
 
 export const HowItWorksInfo = [
-    {step:1 , title:"Powerfull Mobile and Online App"},
-    {step:2 , title:"Brings more Transparency and Speed"},
-    {step:3 , title:"Special for Multiple Use Capabilities"}
+    {step:1 , title:"Powerfull Mobile and Online App", description: "gyu guiysad huisdahui asdui hasd huiasd huiasd huiasd"},
+    {step:2 , title:"Brings more Transparency and Speed", description: "gyu guiysad huisdahui asdui hasd huiasd huiasd huiasd"},
+    {step:3 , title:"Special for Multiple Use Capabilities", description: "gyu guiysad huisdahui asdui hasd huiasd huiasd huiasd"}
 ]
 
 export const SingleCoolFact = [
@@ -97,27 +101,33 @@ export const SingleCoolFact = [
 export const service_single_content = [
     {
         img:HomeDemo3Services1,
-        title:'Decentralized Exchange'
+        title:'Decentralized Exchange',
+        description: 'Decentralized Exchanges (DEXs) like Oracle Swap, are a critical part of a blockchain ecosystem. DEXs create a decentralized peer to peer marketplace for users to interact and trade with eachother without a central authority. DEXs allow you to retain ownership of your crypto and give you a market to trade it! Remeber, not your keys not your crypto!',
     },
     {
         img:HomeDemo3Services2,
-        title:'Automatic Market Maker'
+        title:'Automatic Market Maker',
+        description: 'A DEX like Oracle Swap is an AMM, which allows users to create a market out of thin air! Users can create a token and give it value by pairing it in a liquidity pool with a token that already has a value. Then it becomes tradeable without any intermediary involved!',
     },
     {
         img:HomeDemo3Services3,
-        title:'Liquidity Farming'
+        title:'Liquidity Farming',
+        description: 'Users can provide liquidity and earn passive rewards! Oracle Swap Rewards users for providing liquidity to the DEX.',
     },
     {
         img:HomeDemo3Services4,
-        title:'Oracle Token Staking'
+        title:'Oracle Token Staking',
+        description: 'You can stake your $ORACLE Tokens to receive a share of all of the transaction fees that happen on Oracle Swap!',
     },
     {
         img:HomeDemo3Services5,
-        title:'NFT Marketplace'
+        title:'NFT Marketplace',
+        description: 'Coming Soon!',
     },
     {
         img:HomeDemo3Services6,
-        title:'Oracle NFT Staking'
+        title:'Oracle NFT Staking',
+        description: 'Coming Soon!',
     }
 
 ]
@@ -317,15 +327,18 @@ export const timelineInfo = [
 export const ServiceBlock = [
     {
         classIco:"icon ti-mobile",
-        title:"Get A Wallet"
+        title:"Get A Wallet",
+        description: "You need a sovereign crypto wallet to use Oracle Swap. Oracle Swap works with Meta Mask and Bifrost wallet. You can use Metamask on Desktop or Mobile. Bifrost is designed only for mobile usage. Just go to oracleswap.io through your wallet browser!"
     },
     {
         classIco:"icon ti-widget",
-        title:"Get Some Songbird"
+        title:"Get Some Songbird",
+        description: "To start using Oracle Swap you will need to get some Songbird Coins! You can do this on an Exchange like Bitrue.com or Gate.io. Get the tokens and send them to your wallet."
     },
     {
         classIco:"icon ti-settings",
-        title:"Trade"
+        title:"Trade",
+        description: "Congratulations, you are ready to start trading and earning on Oracle Swap!"
     },
 ]
 
@@ -340,19 +353,23 @@ export const SocialListIco = [
 export const FQAInfo = [
     {
         text:'What is the ORACLE PLEDGE NFT?',
-        ID:'Q1'
+        ID:'Q1',
+        description: "fdg dfgdhjgj g hgsdf fsd ssd sd"
     },
     {
         text:'What is the $ORACLE Token?',
-        ID:'Q2'
+        ID:'Q2',
+        description: "fdg dfgdhjgj g hgsdf fsd ssd sd"
     },
     {
         text:'How do I participate?',
-        ID:'Q3'
+        ID:'Q3',
+        description: "fdg dfgdhjgj g hgsdf fsd ssd sd"
     },
     {
         text:'Why should I participate?',
-        ID:'Q4'
+        ID:'Q4',
+        description: "fdg dfgdhjgj g hgsdf fsd ssd sd"
     },
 ]
 
@@ -385,7 +402,7 @@ export const TokenText = [
         img:HomeDemo3TokenIcon1
     },
     {
-        text:'100 Million To Reserve',
+        text:'100 Million To Reserve - The Reserve may be burned, used for liquidity, or provided to other exchanges...',
         img:HomeDemo3TokenIcon1
     },
 ]
@@ -408,44 +425,44 @@ export const MissionData = [
 export const TeamMember = [
     {
         img:HomeDemo3TeamImg1,
-        title:'Sunny khan',
-        text:'Executive Officer'
+        title:'Oracle Wizard',
+        text:'Orchestrator/Developer'
     },
     {
         img:HomeDemo3TeamImg2,
-        title:'Ajoy Das',
-        text:'Business Development'
+        title:'Master Oracle',
+        text:'Designer/Administrator'
     },
     {
         img:HomeDemo3TeamImg3,
-        title:'Afroza Mou',
-        text:'UX/UI Designer'
+        title:'Oracle Pioneer',
+        text:'Advanced Developer'
     },
     {
         img:HomeDemo3TeamImg4,
-        title:'Lim Sarah',
-        text:'Head of Marketing'
+        title:'Oracle Architect',
+        text:'Advanced Developer'
     },
     {
-        img:HomeDemo3TeamImg1,
-        title:'Sunny khan',
-        text:'Executive Officer'
+        img:HomeDemo3TeamImg5,
+        title:'Oracle Manager',
+        text:'Marketing/PR'
     },
     {
-        img:HomeDemo3TeamImg2,
-        title:'Ajoy Das',
-        text:'Business Development'
+        img:HomeDemo3TeamImg6,
+        title:'Oracle Intellect',
+        text:'Developer'
     },
     {
-        img:HomeDemo3TeamImg3,
-        title:'Afroza Mou',
-        text:'UX/UI Designer'
+        img:HomeDemo3TeamImg7,
+        title:'Clever Oracle',
+        text:'Developer'
     },
-    {
-        img:HomeDemo3TeamImg4,
-        title:'Lim Sarah',
-        text:'Head of Marketing'
-    },
+    // {
+    //     img:HomeDemo3TeamImg8,
+    //     title:'Oracle Viber',
+    //     text:'Promo'
+    // },
 ]
 
 export const PartnersData = [

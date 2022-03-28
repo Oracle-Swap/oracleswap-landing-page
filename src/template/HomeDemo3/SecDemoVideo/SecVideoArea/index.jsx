@@ -7,11 +7,14 @@ const SecVideoArea = ({img}) => {
                 <img src={img} alt="" />
             </div>
             <div className="video-icon">
-                <a  href="https://www.youtube.com/watch?v=sJlZMbB8o5Y" target="_blank"
+            <a  onClick={{}} href="https://www.youtube.com/watch?v=sJlZMbB8o5Y" target="_blank"
                     className="btn dream-btn video-btn"
                     id="videobtn">
                     <i className="fa fa-play"></i>
                 </a>
+            
+            {/* <iframe width="auto" height="auto" src="https://www.youtube.com/embed/sJlZMbB8o5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+            
             </div>
         </div>
     </div>

@@ -19,7 +19,7 @@ const SecFAQ_Timeline = ({FQAInfo , DocElementTitle}) => {
                         <div className="panel-group" id="accordionFourLeft" data-aos="fade-up">
                             {FQAInfo && FQAInfo.map((item , key) => (
                                 <>
-                                    <SingleFAQArea key={key} text={item.text} ID={item.ID} />
+                                    <SingleFAQArea key={key} text={item.text} ID={item.ID} description={item.description} />
                                 </>
                             ))}
                         </div>

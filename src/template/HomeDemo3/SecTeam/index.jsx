@@ -8,8 +8,8 @@ const SecTeam = ({data}) => {
             <div className="row">
                 <div className="col-12">
                     <SectionHeading
-                        title='Awesome Team'
-                        text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.'
+                        title='Oracle Team'
+                        text='We are a team of big hearted forward thinking individuals with a strong passion for crypto/blockchain technology!'
                     />
                 </div>
             </div>
@@ -25,12 +25,12 @@ const SecTeam = ({data}) => {
                                 <h5>{item.title}</h5>
                                 <p>{item.text}</p>
                             </div>
-                            <div className="team-social-icon">
+                            {/* <div className="team-social-icon">
                                 <a href="#"><i className="fa fa-twitter"></i></a>
                                 <a href="#"><i className="fa fa-instagram"></i></a>
                                 <a href="#"><i className="fa fa-facebook"></i></a>
                                 <a href="#"><i className="fa fa-skype"></i></a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 ))}

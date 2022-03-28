@@ -2,7 +2,7 @@ import SectionHeading from '../../../components/SectionHeading'
 import ServiceBlock from './ServiceBlock'
 import swap from "./swap.png"
 
-const SecOurFeatures = ({data , imgPhone , Rings}) => {
+const SecOurFeatures = ({data , imgPhone , Rings, description}) => {
 
   return (
     <section className="features section-padding-100">
@@ -19,6 +19,7 @@ const SecOurFeatures = ({data , imgPhone , Rings}) => {
                             key={key}
                             classIco={item.classIco}
                             title={item.title}
+                            description={item.description}
                         />
                     ))}
                 </div>

@@ -1,4 +1,4 @@
-const Content = ({img , title}) => {
+const Content = ({img , title, description}) => {
 
   return (
     <div className="col-12 col-sm-6 col-lg-4" data-aos="fade-up">
@@ -9,7 +9,7 @@ const Content = ({img , title}) => {
                 <img src={img} alt="" />
             </div>
             <h6>{title}</h6>
-            <p>999999Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla neque quam, maximus ut accumsan ut, posuere sit Lorem ipsum.</p>
+            <p>{description}</p>
         </div>
     </div>
   );

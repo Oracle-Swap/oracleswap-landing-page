@@ -1,6 +1,7 @@
 import SecWhoWeContant from './SecWhoWeContant'
 import SecWelcomeMeter from './SecWelcomeMeter'
 
+
 const SecAboutUs = ({img}) => {
 
   return (

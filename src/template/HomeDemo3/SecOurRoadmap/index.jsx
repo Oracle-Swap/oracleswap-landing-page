@@ -7,7 +7,7 @@ const SecOurRoadmap = ({data , img}) => {
     <section className="roadmap section-padding-100" style={{background: `url(${img}) center center / cover no-repeat`, backgroundSize: 'cover'}} id="roadmap">
         <SectionHeading
             title='Oracle Roadmap'
-            text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.'
+            text='We are excited to launch Oracle Swap and continue to advance and innovate on the Songbird and Flare Network! The future is bright!'
         />
         <div className="container-fluid">
           <div className="row">

@@ -32,11 +32,11 @@
 
 .classynav ul li a {
     text-transform: uppercase;
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(254, 214, 1, .9);
 }
 
 .classynav ul li a:hover{
-    color: #fff;
+    color: #17cab3;
 }
 
 .classynav ul li .megamenu li a {

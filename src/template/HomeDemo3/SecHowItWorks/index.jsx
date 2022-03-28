@@ -1,6 +1,6 @@
 import SectionHeading from '../../../components/SectionHeading'
 
-const SecHowItWorks = ({ data, imgPhone }) => {
+const SecHowItWorks = ({ data, imgPhone, description }) => {
 
   return (
     <section className="features section-padding-100-0">
@@ -25,7 +25,7 @@ const SecHowItWorks = ({ data, imgPhone }) => {
                 <div className="inner-box">
                   <div className="step">{item.step}</div>
                   <h3><a href="#">{item.title}</a></h3>
-                  <div className="text">ssssssssssssssssLorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium modi assumenda beatae provident non hic eum dolores natus, vitae, quae, facere perferendis.</div>
+                  <div className="text">{item.description}</div>
                 </div>
               </div>
             ))}
