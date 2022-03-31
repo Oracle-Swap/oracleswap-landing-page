@@ -9,7 +9,7 @@ const SecWelcomeMeter = ({img}) => {
         <div className="welcome-meter">
             <img src={airdrop} className="img-responsive center-block" alt="" />
             <div className="growing-company text-center mt-30">
-                <p>* Airdropping to <span className="counter"><CountUp start={0} end={3000} duration={20}/> </span>+</p>
+                <p>* Airdropping <span className="counter"><CountUp start={1000000} end={100000000} duration={10}/> </span>+ Tokens!</p>
             </div>
         </div>
     </div>

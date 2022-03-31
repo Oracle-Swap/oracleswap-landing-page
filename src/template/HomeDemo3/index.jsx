@@ -46,6 +46,7 @@ import SecDistribution from './SecDistribution'
 import SecTeam from './SecTeam'
 import SecPartners from './SecPartners'
 
+
 let HomeDemo3 = () => {
 
   useEffect(() => {
@@ -80,6 +81,8 @@ let HomeDemo3 = () => {
         <SecOurRoadmap data={timelineInfo} img={HomeDemo3BgRoadmap} />
         <SecTeam data={TeamMember} />
         {/* <SecPartners data={PartnersData} /> */}
+          			
+
       </div>
       <Footer />
     </>

@@ -5,10 +5,8 @@ const SecHowItWorks = ({ data, imgPhone, description }) => {
   return (
     <section className="features section-padding-100-0">
       <SectionHeading
-        title='The Oracle Pledge'
-        text='Our world is collapsing before our very eyes. Cryptocurrency is an obvious solution to many of the problems our world currently faces.
-            You are making THE PLEDGE to prove how strongly you believe in the importance of freedom in cryptocurrency and exchange. We believe Crypto currencies play an integral role in our sovereign collective future. We recognize the importance of decentralized networks and exchanges in the effort to combat the central banks stranglehold on the world. If you agree with this, then you can show your support by making a pledge via minting a PLEDGE NFT.
-            If you support this movement and participate in THE PLEDGE, you will be airdropped free tokens. These tokens will have no value. Remember, this is not an investment of any kind, you should have no expectations of profit from the work of others. This is a pledge  to show you support a decentralized and autonomous blockchain future free from the chains and restrictions placed upon us by corrupt banks and institutions.'
+        title='The Oracles NFTs'
+        text='The Oracles are messengers from beyond that encourage humanity to utilize decentralized technologies to uplift their civilization. The Oracles believe Blockchains, Digital Assets and Decentralized exchanges can liberate humanity from the corrupt corporations and instutions that control the world. If you agree with this message, mint an Oracle NFT to participate in the airdrop!'
       />
 
       <div className="container">
@@ -24,12 +22,16 @@ const SecHowItWorks = ({ data, imgPhone, description }) => {
               <div className="services-block-four how" key={key}>
                 <div className="inner-box">
                   <div className="step">{item.step}</div>
-                  <h3><a href="#">{item.title}</a></h3>
+                  <h3><a >{item.title}</a></h3>
                   <div className="text">{item.description}</div>
                 </div>
               </div>
             ))}
+            <div className="dream-btn-group">
+              <a href="https://app.oracleswap.io/" target="_blank" className="btn dream-btn mr-3">Learn More About The Multipliers!</a>
+            </div>
           </div>
+
         </div>
       </div>
     </section>

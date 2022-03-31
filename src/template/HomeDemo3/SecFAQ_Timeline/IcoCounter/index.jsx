@@ -4,10 +4,10 @@ import { Line } from 'rc-progress';
 
 const IcoCounter = () => {
 
-  useEffect(() => {
-    let PathProgs = document.querySelector('.rc-progress-line-trail')
-    PathProgs.setAttribute('stroke' , "transparent")
-  },[])
+  // useEffect(() => {
+  //   let PathProgs = document.querySelector('.rc-progress-line-trail')
+  //   PathProgs.setAttribute('stroke' , "transparent")
+  // },[])
 
   return (
     <div className="ico-counter">
@@ -15,16 +15,16 @@ const IcoCounter = () => {
 
             <div className="content">
                 <div className="conuter-header">
-                    <h3 className="text-center mb-30">ORACLE MINT PHASE ENDS IN</h3>
+                    <h3 className="text-center mb-30">ORACLE MINT STARTS IN</h3>
                 </div>
                 <div className="counterdown-content">
                     
                     <div className="count-down titled circled text-center">
                         <SlideCountdown
                           weeks={false}
-                          deadline="2022-5-01 14:23:22" />
+                          deadline="2022-4-10 12:00:00" />
                     </div>
-                    <div className="ico-progress">
+                    {/* <div className="ico-progress">
                        <ul className="list-unstyled list-percent list-inline clearfix mb-10">
                           <li className="title">33m</li>
                           <li className="strength">75m</li>
@@ -34,10 +34,14 @@ const IcoCounter = () => {
                        </div>
                        <span className="pull-left">Softcap in 103 days</span>
                        <span className="pull-right">Token Hardcap</span>
-                    </div>
+                    </div> */}
+                   
+                   
                     <div className="text-center">
                         <a href="https://mint.oracleswap.io/" className="button mt-30">Mint Now!</a>
                     </div>
+
+
                 </div>
                 
             </div>

@@ -66,9 +66,9 @@ export const VerticalSocial = [
 ]
 
 export const HowItWorksInfo = [
-    {step:1 , title:"Powerfull Mobile and Online App", description: "gyu guiysad huisdahui asdui hasd huiasd huiasd huiasd"},
-    {step:2 , title:"Brings more Transparency and Speed", description: "gyu guiysad huisdahui asdui hasd huiasd huiasd huiasd"},
-    {step:3 , title:"Special for Multiple Use Capabilities", description: "gyu guiysad huisdahui asdui hasd huiasd huiasd huiasd"}
+    {step:1 , title:"GIVING THE POWER TO THE PEOPLE!", description: "The Oracle NFTs grant you first access to the Oracle Tokens, which are the native currency of the OracleSwap DEX."},
+    {step:2 , title:"HUGE MULTIPLIER BONUSES!", description: "Only with The Oracle NFTs will you be able to leverage the multiplier traits which every NFT has, to gain wild bonus amounts of the Oracle tokens. Upto 250k+ is acheivable with certain traits!"},
+    {step:3 , title:"REWARDS AND STAKING!", description: "The Oracle NFTs will be stakable and will earn you exclusive rewards which will only be available to Oracle NFT holders. Stake your NFTs to earn a portion of ALL transaction fees on OracleSwap NFT Marketplace!"}
 ]
 
 export const SingleCoolFact = [
@@ -352,24 +352,24 @@ export const SocialListIco = [
 
 export const FQAInfo = [
     {
-        text:'What is the ORACLE PLEDGE NFT?',
+        text:'What are The Oracle NFTs?',
         ID:'Q1',
-        description: "fdg dfgdhjgj g hgsdf fsd ssd sd"
+        description: "The Oracle NFTs are your way of participating in one of the largest Airdrops on the Songbird Network. By minting & holding The Oracle NFTs you will be qualified to receive the $ORACLE Token Airdrop. Each NFT gives you a different amount of airdrop points."
     },
     {
         text:'What is the $ORACLE Token?',
         ID:'Q2',
-        description: "fdg dfgdhjgj g hgsdf fsd ssd sd"
+        description: "Oracle tokens are the native token for the Oracle Swap DEX. With these tokens you can stake them to earn passive rewards and also exchange them for other SGB tokens."
     },
     {
         text:'How do I participate?',
         ID:'Q3',
-        description: "fdg dfgdhjgj g hgsdf fsd ssd sd"
+        description: "To participate you can mint The Oracle NFTs or you can hold 1 of 3 different NFTs from the Rare NFT Club. Those NFTs are the Rare Pepes , Pixel Pepes and REDPILL. Each Rare NFT Club NFT will give you a different amount of airdrop points. See more at docs.oraclswap.io."
     },
     {
         text:'Why should I participate?',
         ID:'Q4',
-        description: "fdg dfgdhjgj g hgsdf fsd ssd sd"
+        description: "By participating you are getting in on the ground floor of a brand new ecosystem on the Songbird Network, and by participating you will receive Oracle Tokens which will only be available in these quantities to people who take part in Airdrop Phase. The tokens will not be available in this way ever again and will need to be purchased on the DEX in the future."
     },
 ]
 
@@ -458,11 +458,11 @@ export const TeamMember = [
         title:'Clever Oracle',
         text:'Developer'
     },
-    // {
-    //     img:HomeDemo3TeamImg8,
-    //     title:'Oracle Viber',
-    //     text:'Promo'
-    // },
+    {
+        img:HomeDemo3TeamImg8,
+        title:'Oracle Creator',
+        text:'Artist/Designer'
+    },
 ]
 
 export const PartnersData = [
