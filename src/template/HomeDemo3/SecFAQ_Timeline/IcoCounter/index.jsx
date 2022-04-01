@@ -22,7 +22,7 @@ const IcoCounter = () => {
                     <div className="count-down titled circled text-center">
                         <SlideCountdown
                           weeks={false}
-                          deadline="2022-4-10 12:00:00" />
+                          deadline="2022-4-20 12:00:00" />
                     </div>
                     {/* <div className="ico-progress">
                        <ul className="list-unstyled list-percent list-inline clearfix mb-10">
@@ -38,7 +38,7 @@ const IcoCounter = () => {
                    
                    
                     <div className="text-center">
-                        <a href="https://mint.oracleswap.io/" className="button mt-30">Mint Now!</a>
+                        <a href className="button mt-30">COMING SOON!</a>
                     </div>
 
 

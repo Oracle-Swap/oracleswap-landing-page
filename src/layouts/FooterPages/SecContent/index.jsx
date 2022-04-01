@@ -5,10 +5,10 @@ const SecContent = () => {
           <div className="contact_info_area d-sm-flex justify-content-between">
             <div className="contact_info text-center wow fadeInUp" data-wow-delay="0.2s">
               <h5>NAVIGATE</h5>
-              <a href><p>Documentaion</p></a>
+              <a href='https://docs.oracleswap.io/'><p>Documentaion</p></a>
               <a href><p>Dex</p></a>
               <a href><p>NFT Marketplace</p></a>
-              <a href><p>NFT Parters</p></a>
+              <a href='https://docs.oracleswap.io/the-oracle-nfts-airdrop/nft-partners'><p>NFT Partners</p></a>
               {/* <a href><p></p></a> */}
             </div>
             {/* Content Info */}

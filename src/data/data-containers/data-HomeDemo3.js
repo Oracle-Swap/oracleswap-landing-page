@@ -139,14 +139,14 @@ export const timelineInfo = [
         date:"Q2 2022",
         IsSpan:false,
         TextSpan:"",
-        IsTowLi:false,
-        TextTowLi1:"",
-        TextTowLi2:"",
+        IsTowLi:true,
+        TextTowLi1:"Sell Out Oracle NFTS",
+        TextTowLi2:"Complete Mass Airdrop Of $ORACLE Token",
         IsThreeLi:false,
         TextThreeLi1:"",
         TextThreeLi2:"",
         TextThreeLi3:"",
-        IsFourLi:true,
+        IsFourLi:false,
         TextFourLi1:"Sell Out Oracle NFTS",
         TextFourLi2:"Complete Mass Airdrop Of $ORACLE Token",
         TextFourLi3:"Launch Oracle Swap",
@@ -157,12 +157,12 @@ export const timelineInfo = [
     {
         left:"20%",
         ClassName:"data_cir cir_1",
-        date:"Q3 2022",
-        IsSpan:true,
-        TextSpan:"Oracle Swap FTSO Provider",
-        IsTowLi:false,
-        TextTowLi1:"",
-        TextTowLi2:"",
+        date:"Q2 2022",
+        IsSpan:false,
+        TextSpan:"",
+        IsTowLi:true,
+        TextTowLi1:"Add Liquidity To DEX For $ORACLE Token & Others",
+        TextTowLi2:"Launch Oracle Swap",
         IsThreeLi:false,
         TextThreeLi1:"",
         TextThreeLi2:"",
@@ -182,8 +182,8 @@ export const timelineInfo = [
         IsSpan:false,
         TextSpan:"",
         IsTowLi:true,
-        TextTowLi1:'Add USD Prices to DEX',
-        TextTowLi2:'Analyzer For DEX',
+        TextTowLi1:'Add USD Prices To DEX',
+        TextTowLi2:'Analyzer/Charts To DEX',
         IsThreeLi:false,
         TextThreeLi1:"",
         TextThreeLi2:"",
@@ -199,7 +199,7 @@ export const timelineInfo = [
     {
         left:"40%",
         ClassName:"data_cir cir_3",
-        date:"Q4 2022",
+        date:"Q3 2022",
         IsSpan:false,
         TextSpan:"",
         IsTowLi:true,
@@ -220,9 +220,9 @@ export const timelineInfo = [
     {
         left:"50%",
         ClassName:"data_cir cir_4 red_c",
-        date:"",
+        date:"Q3 2022",
         IsSpan:true,
-        TextSpan:"More NFT Airdrops! To Oracle NFT Holders",
+        TextSpan:"Oracle Swap FTSO Provider",
         IsTowLi:false,
         TextTowLi1:"",
         TextTowLi2:"",
@@ -241,9 +241,9 @@ export const timelineInfo = [
     {
         left:"60%",
         ClassName:"data_cir cir_5 next",
-        date:"",
+        date:"Q4 2022",
         IsSpan:true,
-        TextSpan:"More NFT Airdrops! To Oracle NFT Holders",
+        TextSpan:"Surprise NFT Airdrop! To Oracle NFT Holders",
         IsTowLi:false,
         TextTowLi1:"",
         TextTowLi2:"",
@@ -262,9 +262,9 @@ export const timelineInfo = [
     {
         left:"70%",
         ClassName:"data_cir cir_6 next",
-        date:"",
+        date:"TBD",
         IsSpan:true,
-        TextSpan:"More NFT Airdrops! To Oracle NFT Holders",
+        TextSpan:"Prepare for Flare Network & F-Asset Launch",
         IsTowLi:false,
         TextTowLi1:"",
         TextTowLi2:"",
@@ -283,9 +283,9 @@ export const timelineInfo = [
     {
         left:"80%",
         ClassName:"data_cir cir_7 next",
-        date:"",
+        date:"TBD",
         IsSpan:true,
-        TextSpan:"More NFT Airdrops! To Oracle NFT Holders",
+        TextSpan:"Prepare For Potential Snapshot & Airdrop On Flare Network ",
         IsTowLi:false,
         TextTowLi1:"",
         TextTowLi2:"",
@@ -369,7 +369,7 @@ export const FQAInfo = [
     {
         text:'Why should I participate?',
         ID:'Q4',
-        description: "By participating you are getting in on the ground floor of a brand new ecosystem on the Songbird Network, and by participating you will receive Oracle Tokens which will only be available in these quantities to people who take part in Airdrop Phase. The tokens will not be available in this way ever again and will need to be purchased on the DEX in the future."
+        description: "By purchasing The Oracle NFTs you will be receiving $ORACLE token, when staked you get a portion of the transaction fees from the DEX. On top of that you will also be able to stake your Oracle NFTs for a portion of the revenue from the Marketplace when it goes live. By participating you are getting in on the ground floor of a brand new ecosystem on the Songbird Network, and by participating you will receive Oracle Tokens which will only be available in these quantities to people who take part in Airdrop Phase. The tokens will not be available in this way ever again and will need to be purchased on the DEX in the future."
     },
 ]
 
@@ -394,7 +394,7 @@ export const TokenText = [
         img:HomeDemo3TokenIcon1
     },
     {
-        text:'650 Million To Airdrop',
+        text:'505 Million To Airdrop',
         img:HomeDemo3TokenIcon1
     },
     {
@@ -402,7 +402,7 @@ export const TokenText = [
         img:HomeDemo3TokenIcon1
     },
     {
-        text:'100 Million To Reserve - The Reserve may be burned, used for liquidity, or provided to other exchanges...',
+        text:'245 Million To Reserve/Marketing - The Reserve may be burned, used for liquidity, or provided to other exchanges...',
         img:HomeDemo3TokenIcon1
     },
 ]

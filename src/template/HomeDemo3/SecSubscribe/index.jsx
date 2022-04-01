@@ -30,7 +30,7 @@ const SecSubscribe = ({ data }) => {
             </div>
 
             <div className="text-center">
-                <a href="https://docs.oracleswap.io/" className="button mt-30">SEE THE CODE</a>
+                <a href="https://docs.oracleswap.io/about/smart-contracts" className="button mt-30">SEE THE CODE</a>
             </div>
 
 

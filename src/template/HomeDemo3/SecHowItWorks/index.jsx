@@ -10,6 +10,11 @@ const SecHowItWorks = ({ data, imgPhone, description }) => {
       />
 
       <div className="container">
+        <div className="dream-btn-group text-center">
+            <a href="https://docs.oracleswap.io/the-oracle-nfts-airdrop/the-oracles-story" className="btn dream-btn">Read The Folklore!</a>
+        </div>
+
+
         <div className="row">
           <div className="service-img-wrapper how col-lg-6 col-md-12 col-sm-12">
             <div className="image-box">
@@ -28,7 +33,7 @@ const SecHowItWorks = ({ data, imgPhone, description }) => {
               </div>
             ))}
             <div className="dream-btn-group">
-              <a href="https://app.oracleswap.io/" target="_blank" className="btn dream-btn mr-3">Learn More About The Multipliers!</a>
+              <a href="https://docs.oracleswap.io/the-oracle-nfts-airdrop/the-oracles-multipliers" className="btn dream-btn mr-3">Learn More About The Multipliers!</a>
             </div>
           </div>
 

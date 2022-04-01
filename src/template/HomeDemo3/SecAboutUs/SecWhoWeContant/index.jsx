@@ -15,7 +15,7 @@ const SecWhoWeContant = () => {
         <p data-aos="fade-up">The transactions per second of the Songbird Network allows you to make swaps quickly and efficiently!</p>
         <h4 data-aos="fade-up">Make swaps for pennies!</h4>
         <p data-aos="fade-up">The low gas fees on the Songbird Network allows you to makes swaps for cheap!</p>
-        <a className="btn dream-btn mt-30" href="https://app.oracleswap.io/" data-aos="fade-up">Try It!</a>
+        <a className="btn dream-btn mt-30" href="https://comingsoon.oracleswap.io/" data-aos="fade-up">Try It!</a>
       </div>
     </div>
   );
