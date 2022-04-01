@@ -8,6 +8,9 @@ import './header.css'
 
 import Preloader from '../../components/Preloader'
 
+import { NavLink } from "react-router-dom";
+
+
 const Header = () => {
 
   useEffect(() => {
@@ -51,6 +54,13 @@ const Header = () => {
                     <li><a onClick={moveSmooth} href="#offerings">Offerings</a></li>
                     <li><a onClick={moveSmooth} href="#roadmap">Roadmap</a></li>
                     <li><a onClick={moveSmooth} href="#team">Team</a></li>
+                    {/* <li><a onClick={moveSmooth} href="https://app.oracleswap.io/">NFT Projects</a></li> */}
+
+
+                    {/* <NavLink to={'/nftprojects'}>
+                    <li><a>NFT Projects</a></li>
+                    </NavLink> */}
+
                     {/* <li><a onClick={moveSmooth} href="">Story</a></li> */}
                     {/* <li><a onClick={moveSmooth} href="#contact">Contact</a></li> */}
                   </ul>

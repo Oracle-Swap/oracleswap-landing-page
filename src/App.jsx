@@ -15,6 +15,9 @@ import './assets/css/responsive.css';
 
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 
+import NftProjects from './NftProjects'
+
+
 
 const App = () => {
 
@@ -37,8 +40,15 @@ const App = () => {
           <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
         </Helmet>
+        
         <HomeDemo3 />
-  			{/* <Switch>
+  			
+        {/* <Switch>
+          <Route path="/" exact component={HomeDemo3} />
+  				<Route path="#nftprojects" component={NftProjects} />
+  			</Switch> */}
+        
+        {/* <Switch>
           <Route path="/" exact component={Home} />        
   				<Route path="/index-demo-1" component={HomeDemo1} />
   				<Route path="/index-demo-2" component={HomeDemo2} />

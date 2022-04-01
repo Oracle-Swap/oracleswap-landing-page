@@ -45,6 +45,7 @@ import SecFAQ_Timeline from './SecFAQ_Timeline'
 import SecDistribution from './SecDistribution'
 import SecTeam from './SecTeam'
 import SecPartners from './SecPartners'
+import Multipliers from './SecTrust/Multipliers'
 
 
 let HomeDemo3 = () => {
@@ -71,6 +72,7 @@ let HomeDemo3 = () => {
         <SecHowItWorks data={HowItWorksInfo} imgPhone={HomeDemo3ImgPhone} />
         <SecTrust data={SingleCoolFact} />
         <SecAboutUsClient img={HomeDemo3About1} />
+        <Multipliers />
         <SecDemoVideo img={HomeDemo3VideoBg4} />
         <SecAboutUs img={HomeDemo3Solution} />
         <div className="clearfix" />

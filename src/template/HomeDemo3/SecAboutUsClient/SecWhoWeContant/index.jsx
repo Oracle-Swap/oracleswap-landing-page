@@ -11,21 +11,12 @@ const SecWhoWeContant = () => {
                 	))}
             </div>
             <h4 data-aos="fade-up">THE AIRDROP 💸</h4>
-            <p data-aos="fade-up">For participating in the Mint/Pledge, you will receive points. For every Oracle PLEDGE NFT you mint/hold you will get 10,000 airdrop points. Anyone with these points will be airdropped free tokens called $ORACLE.</p>
-            <p data-aos="fade-up">The $ORACLE tokens will be airdropped to all participants who Minted/Pledged for their belief and support of a cryptocurrency future.</p>
+            <p data-aos="fade-up">Each Oracle NFT will give a certain amount of Oracle points based on the multipliers of the traits it has.</p>
+            <p data-aos="fade-up">These points will qualify you to receive the airdrop of Oracle Tokens when the NFT phase has ended and the airdrop starts!</p>
+            <p data-aos="fade-up">In addition, if you hold Rare NFT Club NFTs such as Rare Pepes, Pixel Pepes or REDPILL you will automatically be elegible for a certain amount of points/tokens based on your total holdings.</p>
             <p data-aos="fade-up">A small portion of $ORACLE tokens will be airdropped to Wrapped Songbird (WSGB) holders.</p>
-            <p data-aos="fade-up">Another way you can receive airdrop points is by holding $PEPE, $REDPILL, and $PIXEL NFTs.</p>
-            <p data-aos="fade-up">1 $PEPE = 2,500 Oracle Airdrop Points</p>
-            <p data-aos="fade-up">1 $PIXEL = 5,000 Oracle Airdrop Points</p>
-            <a href="https://mint.rarepepclub.com/">GET THE PEPE OR PIXEL NFTs 🐸</a>
-            <p data-aos="fade-up">1 $REDPILL = 10,000 Oracle Airdrop Points</p>
-            <a href="https://mint.rarepepclub.com/">GET THE RED PILL! 💊</a>
-            <p data-aos="fade-up">For example, if you hold 5 $PEPE NFTs you will get 12,500 Airdrop Points.</p>
-            <p data-aos="fade-up">The Mint/Pledge will start on March 14th @ 12:00 P.M. UTC. and ends March 22nd @ 12:P.M. UTC.</p>
+            <p data-aos="fade-up">The Mint Phase will start on April 15th @ 12:00 P.M. UTC. and ends May 15th @ 12:P.M. UTC.</p>
             <p data-aos="fade-up">⚠ MAKE SURE YOU ARE HOLDING ALL OF YOUR NFTS AT THE TIME OF THE SNAPSHOT AND UNTIL THE AIRDROP IS OFFICIALLY COMPLETE. IF YOU ARE NOT HOLDING THE NFTS AT THE TIME OF THE SNAPSHOT/AIRDROP YOU MAY BE MISSED!!</p>
-
-            
-
 
             <a className="btn dream-btn mt-30" href="https://mint.oracleswap.io/" data-aos="fade-up">MINT NOW TO PARTICIPATE!</a>
         </div>
