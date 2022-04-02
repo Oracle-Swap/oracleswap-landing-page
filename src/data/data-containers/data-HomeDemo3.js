@@ -67,7 +67,7 @@ export const VerticalSocial = [
 
 export const HowItWorksInfo = [
     {step:1 , title:"GIVING THE POWER TO THE PEOPLE!", description: "The Oracle NFTs grant you first access to the Oracle Tokens, which are the native currency of the OracleSwap DEX."},
-    {step:2 , title:"HUGE MULTIPLIER BONUSES!", description: "Only with The Oracle NFTs will you be able to leverage the multiplier traits which every NFT has, to gain wild bonus amounts of the Oracle tokens. Upto 250k+ is acheivable with certain traits!"},
+    {step:2 , title:"HUGE MULTIPLIER BONUSES!", description: "Only with The Oracle NFTs will you be able to leverage the multiplier traits which every NFT has, to gain wild bonus amounts of the Oracle tokens. Upto 300k+ is acheivable with certain traits!"},
     {step:3 , title:"REWARDS AND STAKING!", description: "The Oracle NFTs will be stakable and will earn you exclusive rewards which will only be available to Oracle NFT holders. Stake your NFTs to earn a portion of ALL transaction fees on OracleSwap NFT Marketplace!"}
 ]
 
