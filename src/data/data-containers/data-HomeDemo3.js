@@ -369,7 +369,7 @@ export const FQAInfo = [
     {
         text:'Why should I participate?',
         ID:'Q4',
-        description: "By purchasing The Oracle NFTs you will be receiving $ORACLE token, when staked you get a portion of the transaction fees from the DEX. On top of that you will also be able to stake your Oracle NFTs for a portion of the revenue from the Marketplace when it goes live. By participating you are getting in on the ground floor of a brand new ecosystem on the Songbird Network, and by participating you will receive Oracle Tokens which will only be available in these quantities to people who take part in Airdrop Phase. The tokens will not be available in this way ever again and will need to be purchased on the DEX in the future."
+        description: "By purchasing The Oracle NFTs you will be receiving $ORACLE token, when staked you get a portion of the transaction fees from the DEX. On top of that you will also be able to stake your Oracle NFTs for a portion of the revenue from the Marketplace when it goes live. By participating you are getting in on the ground floor of a brand new ecosystem on the Songbird Network, and by participating you will receive Oracle Tokens which will only be available in these quantities to people who take part in the Airdrop Phase. The tokens will not be available in this way ever again and will need to be purchased on the DEX in the future."
     },
 ]
 

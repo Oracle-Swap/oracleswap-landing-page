@@ -15,14 +15,14 @@ const SecDemoVideo = ({img}) => {
 
             
             <br/>
-        </div>
-        <div className='iframe-container'>
+        <div className='iframe-container' width="1280" height="441">
             
             <center>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLz2GkzTtPX5k0aVBX9w_ztYhPNXCXs9vH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </center>
 
-            </div>
+        </div>
+        </div>
     </section>
   );
 }
