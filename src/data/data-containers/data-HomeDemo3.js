@@ -66,9 +66,9 @@ export const VerticalSocial = [
 ]
 
 export const HowItWorksInfo = [
-    {step:1 , title:"GIVING THE POWER TO THE PEOPLE!", description: "The Oracle NFTs grant you first access to the Oracle Tokens, which are the native currency of the OracleSwap DEX."},
-    {step:2 , title:"HUGE MULTIPLIER BONUSES!", description: "Only with The Oracle NFTs will you be able to leverage the multiplier traits which every NFT has, to gain wild bonus amounts of the Oracle tokens. Upto 300k+ is acheivable with certain traits!"},
-    {step:3 , title:"REWARDS AND STAKING!", description: "The Oracle NFTs will be stakable and will earn you exclusive rewards which will only be available to Oracle NFT holders. Stake your NFTs to earn a portion of ALL transaction fees on OracleSwap NFT Marketplace!"}
+    {step:1 , title:"GIVING THE POWER TO THE PEOPLE!", description: "The Oracle NFTs grant you first access to the Oracle Tokens, which are the native token of the OracleSwap DEX."},
+    {step:2 , title:"HUGE MULTIPLIER BONUSES!", description: "Only with The Oracle NFTs will you be able to leverage the multiplier traits which every NFT has, to gain wild bonus amounts of the Oracle airdrop points. Upto 300k+ is acheivable with certain traits!"},
+    {step:3 , title:"THE UTILITY!", description: "The Oracle NFTs can be staked as a part of the OracleSwap NFT Marketplace!"}
 ]
 
 export const SingleCoolFact = [
@@ -117,17 +117,17 @@ export const service_single_content = [
     {
         img:HomeDemo3Services4,
         title:'Oracle Token Staking',
-        description: 'You can stake your $ORACLE Tokens to receive a share of all of the transaction fees that happen on Oracle Swap!',
+        description: 'You can stake your $ORACLE Tokens in the Oracle Swap DEX!',
     },
     {
         img:HomeDemo3Services5,
         title:'NFT Marketplace',
-        description: 'The Oracle Swap NFT Marketplace will have a selection of new functions that are unique to the Songbird Network. You will be able to mint your own NFTs and make your own collections. You will be able to make and accept offers on NFTs. Creators will receive royalties for their NFT sales!',
+        description: 'The Oracle Swap NFT Marketplace has a selection of new functions that are unique to the Songbird Network. You can mint your own NFTs and make your own collections. You will be able to make and accept offers on NFTs. Creators will receive royalties for their NFT sales!',
     },
     {
         img:HomeDemo3Services6,
         title:'Oracle NFT Staking',
-        description: 'The Oracles NFTs will be stakeable in a pool that distributes a portion of the transaction fees of the NFT Marketplace to all stakers!',
+        description: 'The Oracles NFTs can be staked in the Oracle Swap NFT Marketplace!',
     }
 
 ]
@@ -354,12 +354,12 @@ export const FQAInfo = [
     {
         text:'What are The Oracle NFTs?',
         ID:'Q1',
-        description: "The Oracle NFTs are your way of participating in one of the largest Airdrops on the Songbird Network. By minting & holding The Oracle NFTs you will be qualified to receive the $ORACLE Token Airdrop. Each NFT gives you a different amount of airdrop points."
+        description: "The Oracle NFTs are your way of participating in one of the largest Airdrops on the Songbird Network. By minting & holding The Oracle NFTs you will be qualified to receive the $ORACLE Token Free Airdrop. Each NFT gives you a different amount of Oracle airdrop points."
     },
     {
         text:'What is the $ORACLE Token?',
         ID:'Q2',
-        description: "Oracle tokens are the native token for the Oracle Swap DEX. With these tokens you can stake them to earn passive rewards and also exchange them for other SGB tokens."
+        description: "Oracle tokens are the native token for the Oracle Swap DEX. With these tokens you can stake and also exchange them for other SGB tokens."
     },
     {
         text:'How do I participate?',
@@ -369,7 +369,7 @@ export const FQAInfo = [
     {
         text:'Why should I participate?',
         ID:'Q4',
-        description: "By purchasing The Oracle NFTs you will be receiving $ORACLE token, when staked you get a portion of the transaction fees from the DEX. On top of that you will also be able to stake your Oracle NFTs for a portion of the revenue from the Marketplace when it goes live. By participating you are getting in on the ground floor of a brand new ecosystem on the Songbird Network, and by participating you will receive Oracle Tokens which will only be available in these quantities to people who take part in the Airdrop Phase. The tokens will not be available in this way ever again and will need to be purchased on the DEX in the future."
+        description: "By minting The Oracle NFTs you will you get Oracle Airdrop Points which makes you eligible to be airdropped free $ORACLE Tokens, which can be staked. On top of that you will also be able to stake your Oracle NFTs on the NFT Marketplace when it goes live. By participating you are getting in on the ground floor of a brand new ecosystem on the Songbird Network!"
     },
 ]
 

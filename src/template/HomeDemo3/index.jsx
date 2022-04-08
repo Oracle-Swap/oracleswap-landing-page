@@ -47,6 +47,9 @@ import SecTeam from './SecTeam'
 import SecPartners from './SecPartners'
 import Multipliers from './SecTrust/Multipliers'
 import Benefits from './SecTrust/Benefits'
+import Disclaimer from './SecSubscribe/Disclaimer'
+
+
 
 
 
@@ -75,7 +78,7 @@ let HomeDemo3 = () => {
         <SecTrust data={SingleCoolFact} />
         <SecAboutUsClient img={HomeDemo3About1} />
         <Multipliers />
-        <Benefits />
+        {/* <Benefits /> */}
         <SecDemoVideo img={HomeDemo3VideoBg4} />
         <SecAboutUs img={HomeDemo3Solution} />
         <div className="clearfix" />
@@ -85,6 +88,8 @@ let HomeDemo3 = () => {
         <SecDistribution img={HomeDemo3Allocation} data={TokenText} />
         <SecOurRoadmap data={timelineInfo} img={HomeDemo3BgRoadmap} />
         <SecTeam data={TeamMember} />
+        <Disclaimer />
+
         {/* <SecPartners data={PartnersData} /> */}
           			
 
