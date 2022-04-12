@@ -582,31 +582,31 @@ ol {
 }
 
 .dream-dots span:first-child {
-    background-color: #00a8ff;
+    background-color: #19cab5;
 }
 
 .dream-dots span:nth-child(2) {
-    background-color: #9c88ff;
+    background-color: #ffffff;
 }
 
 .dream-dots span:nth-child(3) {
-    background-color: #fbc531;
+    background-color: #fed601;
 }
 
 .dream-dots span:nth-child(4) {
-    background-color: #4cd137;
+    background-color: #19cab5;
 }
 
 .dream-dots span:nth-child(5) {
-    background-color: #487eb0;
+    background-color: #fed601;
 }
 
 .dream-dots span:nth-child(6) {
-    background-color: #e84118;
+    background-color: #ffffff;
 }
 
 .dream-dots span:nth-child(7) {
-    background-color: #8c7ae6;
+    background-color: #19cab5;
 }
 
 .login-btn {

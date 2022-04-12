@@ -102,7 +102,7 @@ export const service_single_content = [
     {
         img:HomeDemo3Services1,
         title:'Decentralized Exchange',
-        description: 'Decentralized Exchanges (DEXs) like Oracle Swap, are a critical part of a blockchain ecosystem. DEXs create a decentralized peer to peer marketplace for users to interact and trade with eachother without a central authority. DEXs allow you to retain ownership of your crypto and give you a market to trade it! Remeber, not your keys not your crypto!',
+        description: 'Decentralized Exchanges (DEXs) like Oracle Swap, are a critical part of a blockchain ecosystem. DEXs create a decentralized peer to peer marketplace for users to interact and trade with eachother without a central authority. DEXs allow you to retain ownership of your crypto and give you a market to trade it! Remember, not your keys not your crypto!',
     },
     {
         img:HomeDemo3Services2,
