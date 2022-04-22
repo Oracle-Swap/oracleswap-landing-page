@@ -7,7 +7,7 @@ const SecContent = () => {
               <h5>NAVIGATE</h5>
               <a href='https://docs.oracleswap.io/'><p>Documentation</p></a>
               <a href='https://docs.oracleswap.io/the-oracle-nfts-airdrop/nft-partners'><p>NFT Partners</p></a>
-              <a href><p>Audit Coming Soon</p></a>
+              <a href='https://solidity.finance/audits/OracleSwap/'><p>Audit By Solidity Finance</p></a>
               <a href><p>Dex Coming Soon</p></a>
               <a href><p>NFT Marketplace Coming Soon</p></a>
               {/* <a href><p></p></a> */}

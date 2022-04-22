@@ -32,7 +32,10 @@ const SecSubscribe = ({ data }) => {
             <div className="text-center">
                 <a href="https://docs.oracleswap.io/about/smart-contracts" className="button mt-30">SEE THE CODE</a>
             </div>
-
+            <div className="text-center">
+                <a href="https://solidity.finance/audits/OracleSwap/" className="button mt-30">SEE THE AUDIT</a>
+            </div>
+            
 
 
             <br />
