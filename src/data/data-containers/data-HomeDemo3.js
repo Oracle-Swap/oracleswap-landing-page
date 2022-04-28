@@ -111,8 +111,8 @@ export const service_single_content = [
     },
     {
         img:HomeDemo3Services3,
-        title:'Liquidity Farming',
-        description: 'Users can provide liquidity and earn passive rewards! Oracle Swap Rewards users for providing liquidity to the DEX.',
+        title:'Liquidity Rewards',
+        description: 'Users can provide liquidity and earn rewards on swaps proportional to their share of the pool! Be aware of the risks of providing liquidity, such as impermanent loss!',
     },
     {
         img:HomeDemo3Services4,
@@ -425,13 +425,16 @@ export const MissionData = [
 export const TeamMember = [
     {
         img:HomeDemo3TeamImg1,
-        title:'Oracle Wizard',
-        text:'Orchestrator/Developer'
+        title:'CJ Master Oracle',
+        text:'Co-Founder',
+        telegram: 'https://t.me/CJ_Rare_Anon'
     },
     {
         img:HomeDemo3TeamImg2,
-        title:'Master Oracle',
-        text:'Designer/Administrator'
+        title:'Shahram Wizard Oracle',
+        text:'Co-Founder',
+        telegram: 'https://t.me/Shahram0x'
+
     },
     {
         img:HomeDemo3TeamImg3,

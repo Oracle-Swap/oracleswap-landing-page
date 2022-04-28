@@ -20,9 +20,9 @@ const IcoCounter = () => {
                     <div className="counterdown-content">
 
                         <div className="count-down titled circled text-center">
-                            {/* <SlideCountdown
+                            <SlideCountdown
                                 weeks={false}
-                                deadline="2022-4-22 12:00:00" /> */}
+                                deadline="2022-5-05 17:00:00" />
                         </div>
                         {/* <div className="ico-progress">
                        <ul className="list-unstyled list-percent list-inline clearfix mb-10">
