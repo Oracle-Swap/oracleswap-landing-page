@@ -55,7 +55,7 @@ import {
 
 export const VerticalSocial = [
     {nameIco:'fa fa-twitter', link:'https://twitter.com/Oracle_Swap'},
-    {nameIco:'fa fa-comment', link:'https://discord.com/invite/kJuzKZ8DYH'},
+    {nameIco:'fa fa-comment', link:'https://discord.com/invite/kA6NZtk2gD'},
     {nameIco:'fa fa-telegram', link:'https://t.me/OracleSwapOffical'},
     {nameIco:'fa fa-youtube', link:'https://www.youtube.com/channel/UCIaaQbRoi5TV7epRLg8y3Mg'},
     // {nameIco:'fa fa-medium'},
@@ -425,47 +425,47 @@ export const MissionData = [
 export const TeamMember = [
     {
         img:HomeDemo3TeamImg1,
-        title:'CJ Master Oracle',
+        title:'Carl Roberts',
         text:'Co-Founder',
         telegram: 'https://t.me/CJ_Rare_Anon'
     },
     {
         img:HomeDemo3TeamImg2,
-        title:'Shahram Wizard Oracle',
+        title:'Shahram Akhavan',
         text:'Co-Founder',
         telegram: 'https://t.me/Shahram0x'
 
     },
-    {
-        img:HomeDemo3TeamImg3,
-        title:'Oracle Pioneer',
-        text:'Advanced Developer'
-    },
-    {
-        img:HomeDemo3TeamImg4,
-        title:'Oracle Architect',
-        text:'Advanced Developer'
-    },
-    {
-        img:HomeDemo3TeamImg5,
-        title:'Oracle Manager',
-        text:'Marketing/PR'
-    },
-    {
-        img:HomeDemo3TeamImg6,
-        title:'Oracle Intellect',
-        text:'Developer'
-    },
-    {
-        img:HomeDemo3TeamImg7,
-        title:'Clever Oracle',
-        text:'Developer'
-    },
-    {
-        img:HomeDemo3TeamImg8,
-        title:'Oracle Creator',
-        text:'Artist/Designer'
-    },
+    // {
+    //     img:HomeDemo3TeamImg3,
+    //     title:'Oracle Pioneer',
+    //     text:'Advanced Developer'
+    // },
+    // {
+    //     img:HomeDemo3TeamImg4,
+    //     title:'Oracle Architect',
+    //     text:'Advanced Developer'
+    // },
+    // {
+    //     img:HomeDemo3TeamImg5,
+    //     title:'Oracle Manager',
+    //     text:'Marketing/PR'
+    // },
+    // {
+    //     img:HomeDemo3TeamImg6,
+    //     title:'Oracle Intellect',
+    //     text:'Developer'
+    // },
+    // {
+    //     img:HomeDemo3TeamImg7,
+    //     title:'Clever Oracle',
+    //     text:'Developer'
+    // },
+    // {
+    //     img:HomeDemo3TeamImg8,
+    //     title:'Oracle Creator',
+    //     text:'Artist/Designer'
+    // },
 ]
 
 export const PartnersData = [
