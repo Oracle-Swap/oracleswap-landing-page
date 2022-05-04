@@ -15,14 +15,14 @@ const IcoCounter = () => {
 
                 <div className="content">
                     <div className="conuter-header">
-                        <h3 className="text-center mb-30">ORACLE MINT PHASE STARTS SOON</h3>
+                        <h3 className="text-center mb-30">ORACLE MINT PHASE STARTS MAY 5TH AT 5PM PDT</h3>
                     </div>
                     <div className="counterdown-content">
 
                         <div className="count-down titled circled text-center">
-                            <SlideCountdown
+                            {/* <SlideCountdown
                                 weeks={false}
-                                deadline="2022-5-05 17:00:00" />
+                                deadline="2022-5-05 17:00:00" /> */}
                         </div>
                         {/* <div className="ico-progress">
                        <ul className="list-unstyled list-percent list-inline clearfix mb-10">
