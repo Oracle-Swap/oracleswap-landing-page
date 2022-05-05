@@ -17,7 +17,7 @@ function SecWelcomeContent({img}){
           </p>
           <div className="dream-btn-group">
               <a href="https://comingsoon.oracleswap.io/" target="_blank" className="btn dream-btn mr-3">OPEN DAPP</a>
-              <a href="https://comingsoon.oracleswap.io/" target="_blank" className="btn dream-btn">MINT NOW!</a>
+              <a href="https://mint.oracleswap.io/" target="_blank" className="btn dream-btn">MINT NOW!</a>
           </div>
       </div>
   )
