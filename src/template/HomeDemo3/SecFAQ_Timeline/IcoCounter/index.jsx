@@ -15,7 +15,7 @@ const IcoCounter = () => {
 
                 <div className="content">
                     <div className="conuter-header">
-                        <h3 className="text-center mb-30">📢THE MINT PHASE HAS BEGUN!</h3>
+                        <h3 className="text-center mb-30">📢THE ORACLES HAVE OFFICIALLY SOLD OUT!</h3>
                     </div>
                     <div className="counterdown-content">
 
@@ -39,9 +39,9 @@ const IcoCounter = () => {
 
                         <div className="text-center">
                             <div className="conuter-header">
-                                <br />
+                                {/* <br />
                                 <h3 className="text-center">STARTING COST TO MINT: 1111 SGB</h3>
-                                <p className="text-center">Bonding Curve 📈: The cost to mint an Oracle increases by 5% everyday after the first 5 days of the mint.</p>
+                                <p className="text-center">Bonding Curve 📈: The cost to mint an Oracle increases by 5% everyday after the first 5 days of the mint.</p> */}
 
                             </div>
                             <a href='https://mint.oracleswap.io/' className="button mt-30">MINT NOW!</a>
