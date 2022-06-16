@@ -150,7 +150,7 @@ export const timelineInfo = [
         TextFourLi1:"Sell Out Oracle NFTS",
         TextFourLi2:"Complete Mass Airdrop Of $ORACLE Token",
         TextFourLi3:"Launch Oracle Swap",
-        TextFourLi4:"Add Liquidity To DEX For $ORACLE Token & Others",
+        TextFourLi4:"Audit & Test",
         img:HomeDemo3RoadmapIcons1
 
     },
@@ -161,7 +161,7 @@ export const timelineInfo = [
         IsSpan:false,
         TextSpan:"",
         IsTowLi:true,
-        TextTowLi1:"Add Liquidity To DEX For $ORACLE Token & Others",
+        TextTowLi1:"Audit & Test",
         TextTowLi2:"Launch Oracle Swap",
         IsThreeLi:false,
         TextThreeLi1:"",

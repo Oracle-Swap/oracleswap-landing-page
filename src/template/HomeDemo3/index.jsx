@@ -73,11 +73,11 @@ let HomeDemo3 = () => {
       <div className="HomeDemo3">
         <SecWelcomeArea />
         <SecVerticalSocial data={VerticalSocial} />
-        <SecFAQ_Timeline FQAInfo={FQAInfo} DocElementTitle={DocElementTitle} />
-        <SecHowItWorks data={HowItWorksInfo} imgPhone={HomeDemo3ImgPhone} />
+        {/* <SecFAQ_Timeline FQAInfo={FQAInfo} DocElementTitle={DocElementTitle} /> */}
+        {/* <SecHowItWorks data={HowItWorksInfo} imgPhone={HomeDemo3ImgPhone} /> */}
         <SecTrust data={SingleCoolFact} />
-        <SecAboutUsClient img={HomeDemo3About1} />
-        <Multipliers />
+        {/* <SecAboutUsClient img={HomeDemo3About1} /> */}
+        {/* <Multipliers /> */}
         {/* <Benefits /> */}
         <SecDemoVideo img={HomeDemo3VideoBg4} />
         <SecAboutUs img={HomeDemo3Solution} />

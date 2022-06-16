@@ -9,7 +9,7 @@ const SecTrust = ({ data }) => {
 
       <SectionHeading
         title='Meet The Oracles!'
-        text='Check out how awesome the Oracle NFTs are! Get an NFT and be qualified to receive the $ORACLE Token Free Airdrop!'
+        text='The Oracles are messengers from beyond that encourage humanity to utilize decentralized technologies to uplift their civilization. The Oracles believe Blockchains, Digital Assets and Decentralized exchanges can liberate humanity from the corrupt corporations and instutions that control the world.'
       />
 
       <div className="container">
@@ -20,10 +20,12 @@ const SecTrust = ({ data }) => {
           <div className='iframe-container' width="1280" height="441">
 
             <center>
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/RLPYvcJXJN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/w4G5BQk-eWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </center>
 
           </div>
+          <a className="btn dream-btn mt-30" href="https://docs.oracleswap.io/the-oracle-nfts-airdrop/the-oracles-story" data-aos="fade-up">LEARN MORE</a>
+
         </div>
       </div>
     </section>
