@@ -75,10 +75,12 @@ let HomeDemo3 = () => {
         <SecVerticalSocial data={VerticalSocial} />
         {/* <SecFAQ_Timeline FQAInfo={FQAInfo} DocElementTitle={DocElementTitle} /> */}
         {/* <SecHowItWorks data={HowItWorksInfo} imgPhone={HomeDemo3ImgPhone} /> */}
-        <SecTrust data={SingleCoolFact} />
         {/* <SecAboutUsClient img={HomeDemo3About1} /> */}
         {/* <Multipliers /> */}
         {/* <Benefits /> */}
+        <br />
+        <br />
+        <br />
         <SecDemoVideo img={HomeDemo3VideoBg4} />
         <SecAboutUs img={HomeDemo3Solution} />
         <div className="clearfix" />
@@ -87,6 +89,7 @@ let HomeDemo3 = () => {
         <SecSubscribe data={SocialListIco} />
         <SecDistribution img={HomeDemo3Allocation} data={TokenText} />
         <SecOurRoadmap data={timelineInfo} img={HomeDemo3BgRoadmap} />
+        <SecTrust data={SingleCoolFact} />
         <SecTeam data={TeamMember} />
         <Disclaimer />
 

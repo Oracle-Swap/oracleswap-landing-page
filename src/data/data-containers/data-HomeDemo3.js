@@ -394,7 +394,7 @@ export const TokenText = [
         img:HomeDemo3TokenIcon1
     },
     {
-        text:'505 Million To Airdrop',
+        text:'620 Million Airdroped to Songbird Network',
         img:HomeDemo3TokenIcon1
     },
     {
@@ -402,7 +402,7 @@ export const TokenText = [
         img:HomeDemo3TokenIcon1
     },
     {
-        text:'245 Million To Reserve/Marketing - The Reserve may be burned, used for liquidity, or provided to other exchanges...',
+        text:'130 Million To Reserve/Marketing - The Reserve may be burned, used for liquidity, or provided to other exchanges...',
         img:HomeDemo3TokenIcon1
     },
 ]
