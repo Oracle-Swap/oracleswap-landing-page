@@ -16,7 +16,7 @@ function SecWelcomeContent({img}){
             It also provides a variety of opportunities to gain yield by providing liquidity and staking! 
           </p>
           <div className="dream-btn-group">
-              <a href="https://beta.oracleswap.io/" target="_blank" className="btn dream-btn mr-3">DEX</a>
+              <a href="https://dex.oracleswap.io/" target="_blank" className="btn dream-btn mr-3">DEX</a>
               {/* <a href="https://mint.oracleswap.io/" target="_blank" className="btn dream-btn">MINT NOW!</a> */}
           </div>
       </div>

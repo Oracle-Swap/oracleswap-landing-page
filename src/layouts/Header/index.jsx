@@ -66,7 +66,7 @@ const Header = () => {
                     {/* <li><a onClick={moveSmooth} href="#contact">Contact</a></li> */}
                   </ul>
                     {/* <a href="https://mint.oracleswap.io/" className="btn login-btn ml-50">MINT</a> */}
-                  <a href="https://beta.oracleswap.io/" className="btn login-btn ml-50">DEX</a>
+                  <a href="https://dex.oracleswap.io/" className="btn login-btn ml-50">DEX</a>
                 </div>
               </div>
             </nav>

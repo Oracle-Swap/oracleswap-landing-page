@@ -26,7 +26,7 @@ const SecMenu = ({data}) => {
 	            	}
 	            </ul>
 
-	            <a href="https://beta.oracleswap.io/" className="btn login-btn ml-50">DEX</a>
+	            <a href="https://dex.oracleswap.io/" className="btn login-btn ml-50">DEX</a>
 	        </div>
 	    </div>
     );
