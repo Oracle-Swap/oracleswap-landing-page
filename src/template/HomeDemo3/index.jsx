@@ -90,7 +90,7 @@ let HomeDemo3 = () => {
         <SecDistribution img={HomeDemo3Allocation} data={TokenText} />
         <SecOurRoadmap data={timelineInfo} img={HomeDemo3BgRoadmap} />
         <SecTrust data={SingleCoolFact} />
-        <SecTeam data={TeamMember} />
+        {/* <SecTeam data={TeamMember} /> */}
         <Disclaimer />
 
         {/* <SecPartners data={PartnersData} /> */}
