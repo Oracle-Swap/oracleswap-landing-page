@@ -53,9 +53,9 @@ const Header = () => {
                     <li><a onClick={moveSmooth} href="#about">About</a></li>
                     <li><a onClick={moveSmooth} href="#offerings">Offerings</a></li>
                     <li><a onClick={moveSmooth} href="#roadmap">Roadmap</a></li>
-                    <li><a onClick={moveSmooth} href="#team">Team</a></li>
+                    {/* <li><a onClick={moveSmooth} href="#team">Team</a></li> */}
                     <li><a onClick={moveSmooth} href="https://docs.oracleswap.io/">Docs</a></li>
-                    <li><a onClick={moveSmooth} href="https://earn.oracleswap.io/">FTSO</a></li>
+                    <li><a onClick={moveSmooth} href="https://docs.oracleswap.io/guides/ftso">FTSO</a></li>
                     {/* <li><a onClick={moveSmooth} href="https://app.oracleswap.io/">NFT Projects</a></li> */}
 
 
