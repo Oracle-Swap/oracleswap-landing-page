@@ -55,7 +55,7 @@ import {
 
 export const VerticalSocial = [
     {nameIco:'fa fa-twitter', link:'https://twitter.com/Oracle_Swap'},
-    {nameIco:'fa fa-comment', link:'https://discord.com/invite/kA6NZtk2gD'},
+    {nameIco:'fa fa-comment', link:'https://discord.com/invite/WbDnWcRBxw'},
     {nameIco:'fa fa-telegram', link:'https://t.me/OracleSwapOffical'},
     {nameIco:'fa fa-youtube', link:'https://www.youtube.com/channel/UCIaaQbRoi5TV7epRLg8y3Mg'},
     // {nameIco:'fa fa-medium'},
@@ -66,9 +66,9 @@ export const VerticalSocial = [
 ]
 
 export const HowItWorksInfo = [
-    {step:1 , title:"GIVING THE POWER TO THE PEOPLE!", description: "The Oracle NFTs grant you first access to the Oracle Tokens, which are the native token of the OracleSwap DEX."},
-    {step:2 , title:"HUGE MULTIPLIER BONUSES!", description: "Only with The Oracle NFTs will you be able to leverage the multiplier traits which every NFT has, to gain wild bonus amounts of the Oracle airdrop points. Upto 300k+ is acheivable with certain traits!"},
-    {step:3 , title:"THE UTILITY!", description: "The Oracle NFTs can be staked as a part of the OracleSwap NFT Marketplace!"}
+    {step:1 , title:"💸 EARN 5-10% INTEREST", description: "Earn through the OracleSwap FTSO by delegating your Songbird/Flare vote power. Utilize the Songbird/Flare Networks unique interest bearing mechincs to earn passive yield."},
+    {step:2 , title:"🔐 SECURE", description: "Earn with absolutely no risk! Your coins never leave your wallet. Remember not your keys not your crypto!"},
+    {step:3 , title:"✔️ EASY", description: "It's simple. Open the OracleSwap Earning App. Wrap your Songbird/Flare and Delegate it to OracleSwap FTSO!"}
 ]
 
 export const SingleCoolFact = [
@@ -200,8 +200,8 @@ export const timelineInfo = [
         left:"40%",
         ClassName:"data_cir cir_3",
         date:"Q3 2022",
-        IsSpan:false,
-        TextSpan:"",
+        IsSpan:true,
+        TextSpan:"Oracle Swap FTSO Provider",
         IsTowLi:true,
         TextTowLi1:"NFT Marketplace",
         TextTowLi2:"Staking NFTs",
@@ -220,12 +220,12 @@ export const timelineInfo = [
     {
         left:"50%",
         ClassName:"data_cir cir_4 red_c",
-        date:"Q3 2022",
-        IsSpan:true,
+        date:"Q4 2022",
+        IsSpan:false,
         TextSpan:"Oracle Swap FTSO Provider",
-        IsTowLi:false,
-        TextTowLi1:"",
-        TextTowLi2:"",
+        IsTowLi:true,
+        TextTowLi1:"NFT Marketplace",
+        TextTowLi2:"Staking NFTs",
         IsThreeLi:false,
         TextThreeLi1:"Crowdsale",
         TextThreeLi2:"marketing campaign",

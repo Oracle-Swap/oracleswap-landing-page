@@ -74,7 +74,7 @@ let HomeDemo3 = () => {
         <SecWelcomeArea />
         <SecVerticalSocial data={VerticalSocial} />
         {/* <SecFAQ_Timeline FQAInfo={FQAInfo} DocElementTitle={DocElementTitle} /> */}
-        {/* <SecHowItWorks data={HowItWorksInfo} imgPhone={HomeDemo3ImgPhone} /> */}
+        <SecHowItWorks data={HowItWorksInfo} imgPhone={HomeDemo3ImgPhone} />
         {/* <SecAboutUsClient img={HomeDemo3About1} /> */}
         {/* <Multipliers /> */}
         {/* <Benefits /> */}

@@ -5,15 +5,17 @@ const SecHowItWorks = ({ data, imgPhone, description }) => {
   return (
     <section className="features section-padding-100-0">
       <SectionHeading
-        title='The Oracles NFTs'
-        text='The Oracles are messengers from beyond that encourage humanity to utilize decentralized technologies to uplift their civilization. The Oracles believe Blockchains, Digital Assets and Decentralized exchanges can liberate humanity from the corrupt corporations and instutions that control the world. If you agree with this message, mint an Oracle NFT to participate in the airdrop!'
+        title='EARN INTEREST ON YOUR $SGB/$FLR'
+        text='You can earn upto 5-10% on your Songbird and Flare by delegating to the OracleSwap FTSO Signal Provider. OracleSwap uses a machine learning algorithm to aggregate and submit the most accurate price data possible to the Songbird/Flare Network Time Series Oracle. Delegate your vote to the OracleSwap FTSO to start earning NOW!'
       />
 
       <div className="container">
+        
         <div className="dream-btn-group text-center">
-            <a href="https://docs.oracleswap.io/the-oracle-nfts-airdrop/the-oracles-story" className="btn dream-btn">Read The Folklore!</a>
+            <a href="https://earn.oracleswap.io/" className="btn dream-btn">EARN NOW</a>
         </div>
-
+        <br/>
+        <br/>
 
         <div className="row">
           <div className="service-img-wrapper how col-lg-6 col-md-12 col-sm-12">
@@ -33,7 +35,7 @@ const SecHowItWorks = ({ data, imgPhone, description }) => {
               </div>
             ))}
             <div className="dream-btn-group">
-              <a href="https://docs.oracleswap.io/the-oracle-nfts-airdrop/the-oracles-multipliers" className="btn dream-btn mr-3">Learn More About The Multipliers!</a>
+              <a href="https://earn.oracleswap.io" className="btn dream-btn mr-3">Delegate Now</a>
             </div>
           </div>
 
