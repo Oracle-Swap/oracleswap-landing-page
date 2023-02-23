@@ -15,6 +15,8 @@ const SecIco = ({logo}) => {
               <a href="https://twitter.com/Oracle_Swap"><i className="fa fa-twitter" aria-hidden="true" /></a>
               <a href="https://discord.com/invite/WbDnWcRBxw"><i className="fa fa-comment" aria-hidden="true" /></a>
               <a href="https://www.youtube.com/channel/UCIaaQbRoi5TV7epRLg8y3Mg"><i className="fa fa-youtube" aria-hidden="true" /></a>
+              <a href="https://github.com/Oracle-Swap"><i className="fa fa-github" aria-hidden="true" /></a>
+
               {/* <a href="#"><i className="fa fa-linkedin" aria-hidden="true" /></a> */}
             </div>
           </div>

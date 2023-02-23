@@ -78,9 +78,7 @@ let HomeDemo3 = () => {
         {/* <SecAboutUsClient img={HomeDemo3About1} /> */}
         {/* <Multipliers /> */}
         {/* <Benefits /> */}
-        <br />
-        <br />
-        <br />
+        <SecTrust data={SingleCoolFact} />
         <SecDemoVideo img={HomeDemo3VideoBg4} />
         <SecAboutUs img={HomeDemo3Solution} />
         <div className="clearfix" />
@@ -89,7 +87,6 @@ let HomeDemo3 = () => {
         <SecSubscribe data={SocialListIco} />
         <SecDistribution img={HomeDemo3Allocation} data={TokenText} />
         <SecOurRoadmap data={timelineInfo} img={HomeDemo3BgRoadmap} />
-        <SecTrust data={SingleCoolFact} />
         {/* <SecTeam data={TeamMember} /> */}
         <Disclaimer />
 

@@ -1,4 +1,6 @@
 import SectionHeading from '../../../components/SectionHeading'
+import ARCs from './arcs.jpg'
+
 
 const SecHowItWorks = ({ data, imgPhone, description }) => {
 
@@ -6,7 +8,7 @@ const SecHowItWorks = ({ data, imgPhone, description }) => {
     <section className="features section-padding-100-0">
       <SectionHeading
         title='EARN INTEREST ON YOUR $SGB/$FLR'
-        text='You can earn upto 5-10% on your Songbird and Flare by delegating to the OracleSwap FTSO Signal Provider. OracleSwap uses a machine learning algorithm to aggregate and submit the most accurate price data possible to the Songbird/Flare Network Time Series Oracle. Delegate your vote to the OracleSwap FTSO to start earning NOW!'
+        text='You can earn upto 5-10% on your Songbird and Flare by delegating to an FTSO Signal Provider.'
       />
 
       <div className="container">
@@ -41,7 +43,33 @@ const SecHowItWorks = ({ data, imgPhone, description }) => {
 
         </div>
       </div>
+
+      <br />
+      <br />  
+      <SectionHeading
+        title='The Reach Of the Archetypes!'
+        text='The ARCs are a special NFT collection, like nothing else ever done before. Their core distribution mechanic is interwoven with the Flare Time Series Oracle system. The Alien Archetypes are here to connect with and unify humanity with the greater galactic archetypes. A limited amount of ARCs are randomly distributed by the will of The Oracles to participants of the FTSO System for free every epoch!'
+      >  
+      
+      </SectionHeading>
+ 
+      <div className="text-center mb-5">
+          <a className="btn dream-btn " href="https://earn.oracleswap.io/archetypes" data-aos="fade-up">MINT AN ARC</a>
+          <a className="btn dream-btn " href="https://docs.oracleswap.io/the-oracle-nfts/the-archetypes-nfts" data-aos="fade-up">LEARN MORE</a>
+        </div>
+      
+      <div className="container">
+        <div className="row">
+          {/* <SecSingleCoolFact data={data}/> */}
+          <img src={ARCs} alt="Trulli" width="1280" height="441" />
+          
+
+
+        </div>
+      </div>
     </section>
+
+    
   );
 }
 

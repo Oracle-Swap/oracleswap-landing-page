@@ -9,7 +9,7 @@ function SecWelcomeContent({img}){
                   <span className="integration-text">Trade Tokens On The Songbird Blockchain</span>
               </div>
           </div>
-          <h1>Oracle Swap The Premiere DEX On The Songbird Network</h1>
+          <h1>The Next Generation Of DeFi On The Songbird & Flare Network</h1>
           <p>
             Oracle Swap is an open DeFi platform on the Songbird Network where users can swap their tokens! 
             It is a Decentralized Exchange that creates an open market for users to create liquidity for their tokens. 

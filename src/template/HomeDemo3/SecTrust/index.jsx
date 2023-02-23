@@ -9,7 +9,7 @@ const SecTrust = ({ data }) => {
 
       <SectionHeading
         title='Meet The Oracles!'
-        text='The Oracles are messengers from beyond that encourage humanity to utilize decentralized technologies to uplift their civilization. The Oracles believe Blockchains, Digital Assets and Decentralized exchanges can liberate humanity from the corrupt corporations and instutions that control the world. The Oracles are the decentralized keepers of OracleSwap!'
+        text='The Oracles are messengers from beyond that encourage humanity to utilize decentralized technologies to uplift their civilization. The Oracles believe Blockchains, Digital Assets and Decentralized exchanges can liberate humanity from the corrupt corporations and instutions that control the world. The Oracles are the decentralized keepers of OracleSwap! The Oracles (On Songbird) are the progenitors of The Archetypes (On Flare).'
       />
 
       <div className="container">
