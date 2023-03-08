@@ -31,7 +31,7 @@ const SecContent = () => {
               {/* <p>Mailing Address:xx00 E. Union Ave</p>
               <p>Suite 1100. Denver, CO 80237</p>
               <p>+999 90932 627</p> */}
-              <p>contact@oracleswap.io</p>
+              <p>oracle@oracleswap.io</p>
             </div>
           </div>
         </div>
